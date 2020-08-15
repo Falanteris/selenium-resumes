@@ -1,0 +1,36 @@
+2020-08-15 16:20:59,148 : INFO : cross_browser : Accomplished.. ActionChains rehearsal
+2020-08-15 16:21:00,467 : INFO : cross_browser : Accomplished.. RadioButtons rehearsal
+2020-08-15 16:21:01,118 : INFO : cross_browser : //ul[@id='ui-id-1']/li[@class='ui-menu-item']/div[text()='Afghanistan']
+2020-08-15 16:21:01,896 : INFO : cross_browser : Accomplished.. Search Bar and WebDriverWait rehearsal
+2020-08-15 16:21:02,148 : INFO : cross_browser : Accomplished.. dropdown rehearsal
+2020-08-15 16:21:02,445 : INFO : cross_browser : Accomplished.. checkbox rehearsal
+2020-08-15 16:21:06,964 : INFO : cross_browser : Accomplished.. window switch rehearsal
+2020-08-15 16:21:55,813 : INFO : cross_browser : Rahul Shetty Academy
+2020-08-15 16:22:03,799 : INFO : cross_browser : Rahul Shetty Academy
+2020-08-15 16:22:19,253 : INFO : cross_browser : alert contains your name
+2020-08-15 16:22:19,673 : INFO : cross_browser : confirm pop-up contains your name
+2020-08-15 16:22:19,751 : INFO : cross_browser : {'Instructor': 'Rahul Shetty'}
+2020-08-15 16:22:19,770 : INFO : cross_browser : {'Instructor': 'Rahul Shetty', 'Courses': 'Learn SQL in Practical + Database Testing from Scratch'}
+2020-08-15 16:22:19,791 : INFO : cross_browser : {}
+2020-08-15 16:22:19,816 : INFO : cross_browser : {'Instructor': 'Rahul Shetty'}
+2020-08-15 16:22:19,836 : INFO : cross_browser : {'Instructor': 'Rahul Shetty', 'Courses': 'Learn JMETER from Scratch - (Performance + Load) Testing Tool'}
+2020-08-15 16:22:19,850 : INFO : cross_browser : {}
+2020-08-15 16:22:19,864 : INFO : cross_browser : {'Instructor': 'Rahul Shetty'}
+2020-08-15 16:22:19,876 : INFO : cross_browser : {'Instructor': 'Rahul Shetty', 'Courses': 'QA Expert Course :Software Testing + Bugzilla + SQL + Agile'}
+2020-08-15 16:22:19,888 : INFO : cross_browser : {}
+2020-08-15 16:22:19,900 : INFO : cross_browser : {'Instructor': 'Rahul Shetty'}
+2020-08-15 16:22:19,912 : INFO : cross_browser : {'Instructor': 'Rahul Shetty', 'Courses': 'Master Selenium Automation in simple Python Language'}
+2020-08-15 16:22:19,925 : INFO : cross_browser : {}
+2020-08-15 16:22:20,674 : INFO : cross_browser : Core Java For Automation Testers + Interview Programs
+2020-08-15 16:22:20,700 : INFO : cross_browser : Selenium Webdriver With Java Basics + Advanced + Interview Guide
+2020-08-15 16:22:20,720 : INFO : cross_browser : Learn JMETER From Scratch -(Performance + Load) Testing Tool
+2020-08-15 16:22:20,742 : INFO : cross_browser : SDET/QA Automation Interview Kit + Java Logic Programs
+2020-08-15 16:22:20,771 : INFO : cross_browser : Learn SQL In Practical + Database Testing From Scratch
+2020-08-15 16:22:20,803 : INFO : cross_browser : Appium (Selenium) - Mobile Automation Testing From Scratch
+2020-08-15 16:22:20,836 : INFO : cross_browser : WebServices/REST API Testing With SoapUI
+2020-08-15 16:22:20,866 : INFO : cross_browser : Master Software Testing+Jira+Agile On Live App-Be A TeamLead
+2020-08-15 16:22:20,889 : INFO : cross_browser : Master In Selenium Automation With Simple Python Language
+2020-08-15 16:22:20,915 : INFO : cross_browser : REST API Testing(Automation) From Scratch-Rest Assured Java
+2020-08-15 16:22:20,935 : INFO : cross_browser : Learn Protractor(Angular Automation) From Scratch +Framework
+2020-08-15 16:22:20,955 : INFO : cross_browser : Cypress-Modern Automation Testing From Scratch + Framework
+2020-08-15 16:22:21,003 : INFO : cross_browser : Practice Page

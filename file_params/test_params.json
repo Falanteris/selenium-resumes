@@ -1,0 +1,23 @@
+[{
+  "logfile": "08042020-x3.log",
+  "driver": "chrome",
+    "name": "Adrian",
+    "email": "Adrian@la.com",
+    "DoB": "08072006",
+    "gender": "Male",
+    "password": "MASKU",
+    "ice cream lover": false,
+    "employed": true
+
+},
+{
+  "logfile": "08042020-x4.log",
+  "driver": "firefox",
+    "name": "Falanteris",
+    "email": "abc@xyz.com",
+    "DoB": "06092009",
+    "gender": "Male",
+    "password": "omegahandler",
+    "ice cream lover": true,
+    "employed": false
+}]

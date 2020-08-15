@@ -1,0 +1,14 @@
+[
+  {
+    "logfile": "wa08052020-x2.log",
+    "driver": "chrome",
+
+      "name": "Raynard",
+      "message": "Yeah, but surprisingly.. now she doesn't",
+      "response":"",
+      "timeout":10,
+      "expected_response":false,
+    "file":  "success.png"
+
+  }
+]
