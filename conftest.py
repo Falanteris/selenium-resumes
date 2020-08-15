@@ -1,13 +1,7 @@
 import pytest
-from pytest_html import extras
 from selenium import webdriver
-import json
-from xlsmaster.importer import XlsUtilities
 from utilities.LogFormatClass import LogFormatClass
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.common.by import By
-import re
-from selenium.webdriver.support.wait import WebDriverWait
+
 
 import random
 driver = None
