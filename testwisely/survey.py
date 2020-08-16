@@ -1,5 +1,7 @@
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.select import Select
+from selenium.webdriver.support.wait import WebDriverWait
 
 from testwisely.Switcher import Switcher
 
@@ -17,9 +19,11 @@ class SurveyHandler(Switcher):
         Switcher.__init__(self,driver,logger)
 
     def run(self,role, percentage, freq, challenges, comment):
+        self.driver.implicitly_wait(10)
         self.switch(SurveyHandler.partial_link, self.survey_operations, role, percentage, freq, challenges, comment )
         pass
     def survey_operations(self,*args):
+
         # question 1
         options = Select(self.driver.find_element(*SurveyHandler.select_items)).options
         for option in options:

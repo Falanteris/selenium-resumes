@@ -1,0 +1,347 @@
+2020-08-16 18:25:18,445 : INFO : cross_browser.log : Welcome to wonderful world of Automated Testing
+2020-08-16 18:25:18,470 : INFO : cross_browser.log : wonderful
+2020-08-16 18:25:19,756 : DEBUG : cross_browser.log :       Cheque
+     Non-option
+2020-08-16 18:25:19,776 : INFO : cross_browser.log :       Savings
+     chosen
+2020-08-16 18:25:25,373 : INFO : cross_browser.log : Receipt No: 5114
+Receipt Date: 16/08/2020
+2020-08-16 18:25:25,416 : INFO : cross_browser.log : 5114
+2020-08-16 18:25:25,440 : INFO : cross_browser.log : 16/08/2020
+2020-08-16 18:25:26,595 : INFO : cross_browser.log : You have chosen : Developer
+2020-08-16 18:25:26,662 : INFO : cross_browser.log : You have chosen : 50%
+2020-08-16 18:25:26,734 : INFO : cross_browser.log : You have chosen : weekly
+2020-08-16 18:25:26,867 : INFO : cross_browser.log : You have chosen : ['hard_to_write', 'manager_support']
+2020-08-16 18:25:26,937 : INFO : cross_browser.log : You have written : Cool stuff
+2020-08-16 18:25:27,025 : INFO : cross_browser.log : use TestWise
+2020-08-16 18:25:29,538 : INFO : cross_browser.log : Found error on page on Frame 1 : 404
+2020-08-16 18:25:29,550 : INFO : cross_browser.log : Found error on page on Frame 1 : That’s an error!
+2020-08-16 18:25:29,562 : INFO : cross_browser.log : Found error on page on Frame 1 : The requested URL was not found on this server. That’s all we know.
+2020-08-16 18:25:29,574 : INFO : cross_browser.log : Found error on page on Frame 1 : Back Home
+2020-08-16 18:25:29,632 : INFO : cross_browser.log : Found error on page on Frame 2 : 404
+2020-08-16 18:25:29,644 : INFO : cross_browser.log : Found error on page on Frame 2 : That’s an error!
+2020-08-16 18:25:29,656 : INFO : cross_browser.log : Found error on page on Frame 2 : The requested URL was not found on this server. That’s all we know.
+2020-08-16 18:25:29,668 : INFO : cross_browser.log : Found error on page on Frame 2 : Back Home
+2020-08-16 18:25:30,864 : INFO : cross_browser.log : Answer 1 : Absolutely!
+2020-08-16 18:25:30,888 : INFO : cross_browser.log : Answer 2 : Hard to learn, Unmaintainable test scripts and bloody expensive!
+2020-08-16 18:25:30,914 : INFO : cross_browser.log : Answer 3 : We found TestWise.
+2020-08-16 18:25:32,016 : INFO : cross_browser.log : Are you sure?
+2020-08-16 18:25:34,252 : INFO : cross_browser.log : Popup testing.. finished
+2020-08-16 18:25:35,105 : DEBUG : cross_browser.log : Text assertion  
+(new line before)!
+2020-08-16 18:25:35,106 : DEBUG : cross_browser.log : Italic
+2020-08-16 18:25:35,106 : DEBUG : cross_browser.log : BOLD
+2020-08-16 18:25:35,784 : INFO : cross_browser.log : Received date = 03/05/2012
+2020-08-16 18:25:35,797 : INFO : cross_browser.log :  = Urgent
+2020-08-16 18:25:35,809 : INFO : cross_browser.log : Event date = 01/01/2013
+2020-08-16 18:25:35,822 : INFO : cross_browser.log : Number = Issue No: 2898
+2020-08-16 18:25:35,833 : INFO : cross_browser.log : Type = Too fast
+2020-08-16 18:25:35,845 : INFO : cross_browser.log : Customer = ZORG MAX PTY LTD
+2020-08-16 18:25:38,407 : DEBUG : cross_browser.log : Acquired text = TestWise IDE
+2020-08-16 18:32:44,940 : INFO : cross_browser.log : Welcome to wonderful world of Automated Testing
+2020-08-16 18:32:44,974 : INFO : cross_browser.log : wonderful
+2020-08-16 18:32:46,052 : DEBUG : cross_browser.log :       Cheque
+     Non-option
+2020-08-16 18:32:46,071 : INFO : cross_browser.log :       Savings
+     chosen
+2020-08-16 18:32:50,039 : INFO : cross_browser.log : Receipt No: 3566
+Receipt Date: 16/08/2020
+2020-08-16 18:32:50,084 : INFO : cross_browser.log : 3566
+2020-08-16 18:32:50,114 : INFO : cross_browser.log : 16/08/2020
+2020-08-16 18:32:50,973 : INFO : cross_browser.log : You have chosen : Developer
+2020-08-16 18:32:51,046 : INFO : cross_browser.log : You have chosen : 50%
+2020-08-16 18:32:51,113 : INFO : cross_browser.log : You have chosen : weekly
+2020-08-16 18:32:51,252 : INFO : cross_browser.log : You have chosen : ['hard_to_write', 'manager_support']
+2020-08-16 18:32:51,404 : INFO : cross_browser.log : You have written : Cool stuff
+2020-08-16 18:32:51,497 : INFO : cross_browser.log : use TestWise
+2020-08-16 18:32:53,908 : INFO : cross_browser.log : Found error on page on Frame 1 : 404
+2020-08-16 18:32:53,920 : INFO : cross_browser.log : Found error on page on Frame 1 : That’s an error!
+2020-08-16 18:32:53,932 : INFO : cross_browser.log : Found error on page on Frame 1 : The requested URL was not found on this server. That’s all we know.
+2020-08-16 18:32:53,944 : INFO : cross_browser.log : Found error on page on Frame 1 : Back Home
+2020-08-16 18:32:54,000 : INFO : cross_browser.log : Found error on page on Frame 2 : 404
+2020-08-16 18:32:54,012 : INFO : cross_browser.log : Found error on page on Frame 2 : That’s an error!
+2020-08-16 18:32:54,024 : INFO : cross_browser.log : Found error on page on Frame 2 : The requested URL was not found on this server. That’s all we know.
+2020-08-16 18:32:54,036 : INFO : cross_browser.log : Found error on page on Frame 2 : Back Home
+2020-08-16 18:32:54,971 : INFO : cross_browser.log : Answer 1 : Absolutely!
+2020-08-16 18:32:55,001 : INFO : cross_browser.log : Answer 2 : Hard to learn, Unmaintainable test scripts and bloody expensive!
+2020-08-16 18:32:55,028 : INFO : cross_browser.log : Answer 3 : We found TestWise.
+2020-08-16 18:32:55,637 : INFO : cross_browser.log : Are you sure?
+2020-08-16 18:32:57,904 : INFO : cross_browser.log : Popup testing.. finished
+2020-08-16 18:32:58,769 : DEBUG : cross_browser.log : Text assertion  
+(new line before)!
+2020-08-16 18:32:58,769 : DEBUG : cross_browser.log : Italic
+2020-08-16 18:32:58,769 : DEBUG : cross_browser.log : BOLD
+2020-08-16 18:32:59,431 : INFO : cross_browser.log : Received date = 03/05/2012
+2020-08-16 18:32:59,443 : INFO : cross_browser.log :  = Urgent
+2020-08-16 18:32:59,454 : INFO : cross_browser.log : Event date = 01/01/2013
+2020-08-16 18:32:59,465 : INFO : cross_browser.log : Number = Issue No: 2898
+2020-08-16 18:32:59,477 : INFO : cross_browser.log : Type = Too fast
+2020-08-16 18:32:59,490 : INFO : cross_browser.log : Customer = ZORG MAX PTY LTD
+2020-08-16 18:33:02,435 : DEBUG : cross_browser.log : Acquired text = TestWise IDE
+2020-08-16 18:48:43,478 : INFO : cross_browser.log : Welcome to wonderful world of Automated Testing
+2020-08-16 18:48:43,662 : INFO : cross_browser.log : wonderful
+2020-08-16 18:49:22,101 : INFO : cross_browser.log : Welcome to wonderful world of Automated Testing
+2020-08-16 18:49:22,119 : INFO : cross_browser.log : wonderful
+2020-08-16 18:57:49,451 : INFO : cross_browser.log : Welcome to wonderful world of Automated Testing
+2020-08-16 18:57:49,463 : INFO : cross_browser.log : wonderful
+2020-08-16 18:57:50,133 : DEBUG : cross_browser.log : Cheque Non-option
+2020-08-16 18:57:50,144 : INFO : cross_browser.log : Savings chosen
+2020-08-16 18:57:53,571 : INFO : cross_browser.log : Receipt No: 2333
+Receipt Date: 16/08/2020
+2020-08-16 18:57:53,580 : INFO : cross_browser.log : 2333
+2020-08-16 18:57:53,590 : INFO : cross_browser.log : 16/08/2020
+2020-08-16 18:57:55,049 : INFO : cross_browser.log : You have chosen : Developer
+2020-08-16 18:57:55,319 : INFO : cross_browser.log : You have chosen : 50%
+2020-08-16 18:57:55,592 : INFO : cross_browser.log : You have chosen : weekly
+2020-08-16 18:57:56,100 : INFO : cross_browser.log : You have chosen : ['hard_to_write', 'manager_support']
+2020-08-16 18:57:56,145 : INFO : cross_browser.log : You have written : Cool stuff
+2020-08-16 18:57:56,441 : INFO : cross_browser.log : use TestWise
+2020-08-16 19:00:31,468 : INFO : cross_browser.log : Welcome to wonderful world of Automated Testing
+2020-08-16 19:00:31,482 : INFO : cross_browser.log : wonderful
+2020-08-16 19:00:33,070 : DEBUG : cross_browser.log : Cheque Non-option
+2020-08-16 19:00:33,080 : INFO : cross_browser.log : Savings chosen
+2020-08-16 19:00:38,777 : INFO : cross_browser.log : Receipt No: 5189
+Receipt Date: 16/08/2020
+2020-08-16 19:00:38,794 : INFO : cross_browser.log : 5189
+2020-08-16 19:00:38,808 : INFO : cross_browser.log : 16/08/2020
+2020-08-16 19:00:40,273 : INFO : cross_browser.log : You have chosen : Developer
+2020-08-16 19:00:40,531 : INFO : cross_browser.log : You have chosen : 50%
+2020-08-16 19:00:40,801 : INFO : cross_browser.log : You have chosen : weekly
+2020-08-16 19:00:41,335 : INFO : cross_browser.log : You have chosen : ['hard_to_write', 'manager_support']
+2020-08-16 19:00:41,389 : INFO : cross_browser.log : You have written : Cool stuff
+2020-08-16 19:00:41,638 : INFO : cross_browser.log : use TestWise
+2020-08-16 19:04:38,124 : INFO : cross_browser.log : Welcome to wonderful world of Automated Testing
+2020-08-16 19:04:38,140 : INFO : cross_browser.log : wonderful
+2020-08-16 19:04:41,123 : DEBUG : cross_browser.log : Cheque Non-option
+2020-08-16 19:04:41,140 : INFO : cross_browser.log : Savings chosen
+2020-08-16 19:04:47,865 : INFO : cross_browser.log : Receipt No: 5977
+Receipt Date: 16/08/2020
+2020-08-16 19:04:47,872 : INFO : cross_browser.log : 5977
+2020-08-16 19:04:47,880 : INFO : cross_browser.log : 16/08/2020
+2020-08-16 19:04:49,926 : INFO : cross_browser.log : You have chosen : Developer
+2020-08-16 19:04:50,195 : INFO : cross_browser.log : You have chosen : 50%
+2020-08-16 19:04:50,465 : INFO : cross_browser.log : You have chosen : weekly
+2020-08-16 19:04:52,531 : INFO : cross_browser.log : You have chosen : ['hard_to_write', 'manager_support']
+2020-08-16 19:04:52,578 : INFO : cross_browser.log : You have written : Cool stuff
+2020-08-16 19:04:52,822 : INFO : cross_browser.log : use TestWise
+2020-08-16 19:04:55,565 : INFO : cross_browser.log : Found error on page on Frame 1 : 404
+2020-08-16 19:04:55,572 : INFO : cross_browser.log : Found error on page on Frame 1 : That’s an error!
+2020-08-16 19:04:55,579 : INFO : cross_browser.log : Found error on page on Frame 1 : The requested URL was not found on this server. That’s all we know.
+2020-08-16 19:04:55,584 : INFO : cross_browser.log : Found error on page on Frame 1 : Back Home
+2020-08-16 19:04:55,607 : INFO : cross_browser.log : Found error on page on Frame 2 : 404
+2020-08-16 19:04:55,612 : INFO : cross_browser.log : Found error on page on Frame 2 : That’s an error!
+2020-08-16 19:04:55,617 : INFO : cross_browser.log : Found error on page on Frame 2 : The requested URL was not found on this server. That’s all we know.
+2020-08-16 19:04:55,622 : INFO : cross_browser.log : Found error on page on Frame 2 : Back Home
+2020-08-16 19:04:57,066 : INFO : cross_browser.log : Answer 1 : 
+2020-08-16 19:04:57,081 : INFO : cross_browser.log : Answer 2 : 
+2020-08-16 19:04:57,095 : INFO : cross_browser.log : Answer 3 : 
+2020-08-16 19:04:57,746 : INFO : cross_browser.log : Are you sure?
+2020-08-16 19:04:59,996 : INFO : cross_browser.log : Popup testing.. finished
+2020-08-16 19:05:01,316 : DEBUG : cross_browser.log : Text assertion  
+(new line before)!
+2020-08-16 19:05:01,316 : DEBUG : cross_browser.log : Italic
+2020-08-16 19:05:01,316 : DEBUG : cross_browser.log : BOLD
+2020-08-16 19:05:01,999 : INFO : cross_browser.log : Received date = 03/05/2012
+2020-08-16 19:05:02,004 : INFO : cross_browser.log :  = Urgent
+2020-08-16 19:05:02,012 : INFO : cross_browser.log : Event date = 01/01/2013
+2020-08-16 19:05:02,016 : INFO : cross_browser.log : Number = Issue No: 2898
+2020-08-16 19:05:02,025 : INFO : cross_browser.log : Type = Too fast
+2020-08-16 19:05:02,030 : INFO : cross_browser.log : Customer = ZORG MAX PTY LTD
+2020-08-16 19:05:06,056 : DEBUG : cross_browser.log : Acquired text = TestWise IDE
+2020-08-16 19:06:56,290 : INFO : cross_browser.log : Welcome to wonderful world of Automated Testing
+2020-08-16 19:06:56,303 : INFO : cross_browser.log : wonderful
+2020-08-16 19:07:35,949 : INFO : cross_browser.log : Welcome to wonderful world of Automated Testing
+2020-08-16 19:07:35,968 : INFO : cross_browser.log : wonderful
+2020-08-16 19:07:37,162 : DEBUG : cross_browser.log : Cheque Non-option
+2020-08-16 19:07:37,178 : INFO : cross_browser.log : Savings chosen
+2020-08-16 19:07:40,431 : INFO : cross_browser.log : Receipt No: 2557
+Receipt Date: 16/08/2020
+2020-08-16 19:07:40,442 : INFO : cross_browser.log : 2557
+2020-08-16 19:07:40,450 : INFO : cross_browser.log : 16/08/2020
+2020-08-16 19:07:41,893 : INFO : cross_browser.log : You have chosen : Developer
+2020-08-16 19:07:42,179 : INFO : cross_browser.log : You have chosen : 50%
+2020-08-16 19:07:42,441 : INFO : cross_browser.log : You have chosen : weekly
+2020-08-16 19:07:42,953 : INFO : cross_browser.log : You have chosen : ['hard_to_write', 'manager_support']
+2020-08-16 19:07:43,009 : INFO : cross_browser.log : You have written : Cool stuff
+2020-08-16 19:07:43,274 : INFO : cross_browser.log : use TestWise
+2020-08-16 19:07:46,309 : INFO : cross_browser.log : Found error on page on Frame 1 : 404
+2020-08-16 19:07:46,315 : INFO : cross_browser.log : Found error on page on Frame 1 : That’s an error!
+2020-08-16 19:07:46,321 : INFO : cross_browser.log : Found error on page on Frame 1 : The requested URL was not found on this server. That’s all we know.
+2020-08-16 19:07:46,329 : INFO : cross_browser.log : Found error on page on Frame 1 : Back Home
+2020-08-16 19:07:46,518 : INFO : cross_browser.log : Found error on page on Frame 2 : 404
+2020-08-16 19:07:46,526 : INFO : cross_browser.log : Found error on page on Frame 2 : That’s an error!
+2020-08-16 19:07:46,531 : INFO : cross_browser.log : Found error on page on Frame 2 : The requested URL was not found on this server. That’s all we know.
+2020-08-16 19:07:46,536 : INFO : cross_browser.log : Found error on page on Frame 2 : Back Home
+2020-08-16 19:07:49,971 : INFO : cross_browser.log : Answer 1 : 
+2020-08-16 19:07:49,990 : INFO : cross_browser.log : Answer 2 : 
+2020-08-16 19:07:50,008 : INFO : cross_browser.log : Answer 3 : 
+2020-08-16 19:07:50,715 : INFO : cross_browser.log : Are you sure?
+2020-08-16 19:07:52,985 : INFO : cross_browser.log : Popup testing.. finished
+2020-08-16 19:07:53,727 : DEBUG : cross_browser.log : Text assertion  
+(new line before)!
+2020-08-16 19:07:53,727 : DEBUG : cross_browser.log : Italic
+2020-08-16 19:07:53,727 : DEBUG : cross_browser.log : BOLD
+2020-08-16 19:07:54,518 : INFO : cross_browser.log : Received date = 03/05/2012
+2020-08-16 19:07:54,523 : INFO : cross_browser.log :  = Urgent
+2020-08-16 19:07:54,530 : INFO : cross_browser.log : Event date = 01/01/2013
+2020-08-16 19:07:54,535 : INFO : cross_browser.log : Number = Issue No: 2898
+2020-08-16 19:07:54,541 : INFO : cross_browser.log : Type = Too fast
+2020-08-16 19:07:54,546 : INFO : cross_browser.log : Customer = ZORG MAX PTY LTD
+2020-08-16 19:07:57,617 : DEBUG : cross_browser.log : Acquired text = TestWise IDE
+2020-08-16 19:10:44,152 : INFO : cross_browser.log : Welcome to wonderful world of Automated Testing
+2020-08-16 19:10:44,163 : INFO : cross_browser.log : wonderful
+2020-08-16 19:10:45,196 : DEBUG : cross_browser.log : Cheque Non-option
+2020-08-16 19:10:45,210 : INFO : cross_browser.log : Savings chosen
+2020-08-16 19:12:12,590 : INFO : cross_browser.log : Welcome to wonderful world of Automated Testing
+2020-08-16 19:12:12,605 : INFO : cross_browser.log : wonderful
+2020-08-16 19:12:13,406 : DEBUG : cross_browser.log : Cheque Non-option
+2020-08-16 19:12:13,418 : INFO : cross_browser.log : Savings chosen
+2020-08-16 19:12:17,555 : INFO : cross_browser.log : Receipt No: 3421
+Receipt Date: 16/08/2020
+2020-08-16 19:12:17,565 : INFO : cross_browser.log : 3421
+2020-08-16 19:12:17,573 : INFO : cross_browser.log : 16/08/2020
+2020-08-16 19:12:18,524 : INFO : cross_browser.log : You have chosen : Developer
+2020-08-16 19:12:18,807 : INFO : cross_browser.log : You have chosen : 50%
+2020-08-16 19:12:19,075 : INFO : cross_browser.log : You have chosen : weekly
+2020-08-16 19:12:19,558 : INFO : cross_browser.log : You have chosen : ['hard_to_write', 'manager_support']
+2020-08-16 19:12:19,602 : INFO : cross_browser.log : You have written : Cool stuff
+2020-08-16 19:12:19,848 : INFO : cross_browser.log : use TestWise
+2020-08-16 19:12:26,137 : INFO : cross_browser.log : Found error on page on Frame 1 : 404
+2020-08-16 19:12:26,144 : INFO : cross_browser.log : Found error on page on Frame 1 : That’s an error!
+2020-08-16 19:12:26,150 : INFO : cross_browser.log : Found error on page on Frame 1 : The requested URL was not found on this server. That’s all we know.
+2020-08-16 19:12:26,155 : INFO : cross_browser.log : Found error on page on Frame 1 : Back Home
+2020-08-16 19:12:26,175 : INFO : cross_browser.log : Found error on page on Frame 2 : 404
+2020-08-16 19:12:26,181 : INFO : cross_browser.log : Found error on page on Frame 2 : That’s an error!
+2020-08-16 19:12:26,186 : INFO : cross_browser.log : Found error on page on Frame 2 : The requested URL was not found on this server. That’s all we know.
+2020-08-16 19:12:26,191 : INFO : cross_browser.log : Found error on page on Frame 2 : Back Home
+2020-08-16 19:12:28,042 : INFO : cross_browser.log : Answer 1 : 
+2020-08-16 19:12:28,058 : INFO : cross_browser.log : Answer 2 : 
+2020-08-16 19:12:28,075 : INFO : cross_browser.log : Answer 3 : 
+2020-08-16 19:12:29,575 : INFO : cross_browser.log : Are you sure?
+2020-08-16 19:12:31,775 : INFO : cross_browser.log : Popup testing.. finished
+2020-08-16 19:12:32,541 : DEBUG : cross_browser.log : Text assertion  
+(new line before)!
+2020-08-16 19:12:32,541 : DEBUG : cross_browser.log : Italic
+2020-08-16 19:12:32,541 : DEBUG : cross_browser.log : BOLD
+2020-08-16 19:12:34,145 : INFO : cross_browser.log : Received date = 03/05/2012
+2020-08-16 19:12:34,150 : INFO : cross_browser.log :  = Urgent
+2020-08-16 19:12:34,155 : INFO : cross_browser.log : Event date = 01/01/2013
+2020-08-16 19:12:34,163 : INFO : cross_browser.log : Number = Issue No: 2898
+2020-08-16 19:12:34,168 : INFO : cross_browser.log : Type = Too fast
+2020-08-16 19:12:34,173 : INFO : cross_browser.log : Customer = ZORG MAX PTY LTD
+2020-08-16 19:13:38,511 : INFO : cross_browser.log : Welcome to wonderful world of Automated Testing
+2020-08-16 19:13:38,526 : INFO : cross_browser.log : wonderful
+2020-08-16 19:13:39,218 : DEBUG : cross_browser.log : Cheque Non-option
+2020-08-16 19:13:39,232 : INFO : cross_browser.log : Savings chosen
+2020-08-16 19:13:40,986 : INFO : cross_browser.log : Receipt No: 1123
+Receipt Date: 16/08/2020
+2020-08-16 19:13:40,997 : INFO : cross_browser.log : 1123
+2020-08-16 19:13:41,006 : INFO : cross_browser.log : 16/08/2020
+2020-08-16 19:13:42,328 : INFO : cross_browser.log : You have chosen : Developer
+2020-08-16 19:13:42,613 : INFO : cross_browser.log : You have chosen : 50%
+2020-08-16 19:13:42,892 : INFO : cross_browser.log : You have chosen : weekly
+2020-08-16 19:13:43,387 : INFO : cross_browser.log : You have chosen : ['hard_to_write', 'manager_support']
+2020-08-16 19:13:43,437 : INFO : cross_browser.log : You have written : Cool stuff
+2020-08-16 19:13:43,730 : INFO : cross_browser.log : use TestWise
+2020-08-16 19:13:46,233 : INFO : cross_browser.log : Found error on page on Frame 1 : 404
+2020-08-16 19:13:46,270 : INFO : cross_browser.log : Found error on page on Frame 1 : That’s an error!
+2020-08-16 19:13:46,285 : INFO : cross_browser.log : Found error on page on Frame 1 : The requested URL was not found on this server. That’s all we know.
+2020-08-16 19:13:46,291 : INFO : cross_browser.log : Found error on page on Frame 1 : Back Home
+2020-08-16 19:13:46,315 : INFO : cross_browser.log : Found error on page on Frame 2 : 404
+2020-08-16 19:13:46,323 : INFO : cross_browser.log : Found error on page on Frame 2 : That’s an error!
+2020-08-16 19:13:46,328 : INFO : cross_browser.log : Found error on page on Frame 2 : The requested URL was not found on this server. That’s all we know.
+2020-08-16 19:13:46,333 : INFO : cross_browser.log : Found error on page on Frame 2 : Back Home
+2020-08-16 19:13:47,491 : INFO : cross_browser.log : Answer 1 : 
+2020-08-16 19:13:47,507 : INFO : cross_browser.log : Answer 2 : 
+2020-08-16 19:13:47,522 : INFO : cross_browser.log : Answer 3 : 
+2020-08-16 19:13:48,185 : INFO : cross_browser.log : Are you sure?
+2020-08-16 19:13:50,384 : INFO : cross_browser.log : Popup testing.. finished
+2020-08-16 19:13:51,064 : DEBUG : cross_browser.log : Text assertion  
+(new line before)!
+2020-08-16 19:13:51,064 : DEBUG : cross_browser.log : Italic
+2020-08-16 19:13:51,064 : DEBUG : cross_browser.log : BOLD
+2020-08-16 19:13:51,801 : INFO : cross_browser.log : Received date = 03/05/2012
+2020-08-16 19:13:51,810 : INFO : cross_browser.log :  = Urgent
+2020-08-16 19:13:51,815 : INFO : cross_browser.log : Event date = 01/01/2013
+2020-08-16 19:13:51,822 : INFO : cross_browser.log : Number = Issue No: 2898
+2020-08-16 19:13:51,830 : INFO : cross_browser.log : Type = Too fast
+2020-08-16 19:13:51,836 : INFO : cross_browser.log : Customer = ZORG MAX PTY LTD
+2020-08-16 19:13:54,803 : DEBUG : cross_browser.log : Acquired text = TestWise IDE
+2020-08-16 19:15:00,064 : INFO : cross_browser.log : Welcome to wonderful world of Automated Testing
+2020-08-16 19:15:00,160 : INFO : cross_browser.log : wonderful
+2020-08-16 19:15:01,776 : DEBUG : cross_browser.log :       Cheque
+     Non-option
+2020-08-16 19:15:01,795 : INFO : cross_browser.log :       Savings
+     chosen
+2020-08-16 19:15:12,372 : INFO : cross_browser.log : Receipt No: 9681
+Receipt Date: 16/08/2020
+2020-08-16 19:15:12,398 : INFO : cross_browser.log : 9681
+2020-08-16 19:15:12,422 : INFO : cross_browser.log : 16/08/2020
+2020-08-16 19:15:13,950 : INFO : cross_browser.log : You have chosen : Developer
+2020-08-16 19:15:14,008 : INFO : cross_browser.log : You have chosen : 50%
+2020-08-16 19:15:14,164 : INFO : cross_browser.log : You have chosen : weekly
+2020-08-16 19:15:14,453 : INFO : cross_browser.log : You have chosen : ['hard_to_write', 'manager_support']
+2020-08-16 19:15:14,548 : INFO : cross_browser.log : You have written : Cool stuff
+2020-08-16 19:15:14,647 : INFO : cross_browser.log : use TestWise
+2020-08-16 19:15:17,723 : INFO : cross_browser.log : Found error on page on Frame 1 : 404
+2020-08-16 19:15:17,740 : INFO : cross_browser.log : Found error on page on Frame 1 : That’s an error!
+2020-08-16 19:15:17,752 : INFO : cross_browser.log : Found error on page on Frame 1 : The requested URL was not found on this server. That’s all we know.
+2020-08-16 19:15:17,765 : INFO : cross_browser.log : Found error on page on Frame 1 : Back Home
+2020-08-16 19:15:17,831 : INFO : cross_browser.log : Found error on page on Frame 2 : 404
+2020-08-16 19:15:17,843 : INFO : cross_browser.log : Found error on page on Frame 2 : That’s an error!
+2020-08-16 19:15:17,855 : INFO : cross_browser.log : Found error on page on Frame 2 : The requested URL was not found on this server. That’s all we know.
+2020-08-16 19:15:17,871 : INFO : cross_browser.log : Found error on page on Frame 2 : Back Home
+2020-08-16 19:15:19,451 : INFO : cross_browser.log : Answer 1 : Absolutely!
+2020-08-16 19:15:19,471 : INFO : cross_browser.log : Answer 2 : Hard to learn, Unmaintainable test scripts and bloody expensive!
+2020-08-16 19:15:19,493 : INFO : cross_browser.log : Answer 3 : We found TestWise.
+2020-08-16 19:15:20,937 : INFO : cross_browser.log : Are you sure?
+2020-08-16 19:15:23,248 : INFO : cross_browser.log : Popup testing.. finished
+2020-08-16 19:15:24,074 : DEBUG : cross_browser.log : Text assertion  
+(new line before)!
+2020-08-16 19:15:24,074 : DEBUG : cross_browser.log : Italic
+2020-08-16 19:15:24,074 : DEBUG : cross_browser.log : BOLD
+2020-08-16 19:15:24,795 : INFO : cross_browser.log : Received date = 03/05/2012
+2020-08-16 19:15:24,808 : INFO : cross_browser.log :  = Urgent
+2020-08-16 19:15:24,822 : INFO : cross_browser.log : Event date = 01/01/2013
+2020-08-16 19:15:24,834 : INFO : cross_browser.log : Number = Issue No: 2898
+2020-08-16 19:15:24,845 : INFO : cross_browser.log : Type = Too fast
+2020-08-16 19:15:24,858 : INFO : cross_browser.log : Customer = ZORG MAX PTY LTD
+2020-08-16 19:15:28,696 : DEBUG : cross_browser.log : Acquired text = TestWise IDE
+2020-08-16 19:34:35,797 : INFO : cross_browser.log : Welcome to wonderful world of Automated Testing
+2020-08-16 19:34:35,810 : INFO : cross_browser.log : wonderful
+2020-08-16 19:34:36,478 : DEBUG : cross_browser.log : Cheque Non-option
+2020-08-16 19:34:36,492 : INFO : cross_browser.log : Savings chosen
+2020-08-16 19:34:38,055 : INFO : cross_browser.log : Receipt No: 803
+Receipt Date: 16/08/2020
+2020-08-16 19:34:38,063 : INFO : cross_browser.log : 803
+2020-08-16 19:34:38,070 : INFO : cross_browser.log : 16/08/2020
+2020-08-16 19:34:39,167 : INFO : cross_browser.log : You have chosen : Developer
+2020-08-16 19:34:39,435 : INFO : cross_browser.log : You have chosen : 50%
+2020-08-16 19:34:39,703 : INFO : cross_browser.log : You have chosen : weekly
+2020-08-16 19:34:40,199 : INFO : cross_browser.log : You have chosen : ['hard_to_write', 'manager_support']
+2020-08-16 19:34:40,243 : INFO : cross_browser.log : You have written : Cool stuff
+2020-08-16 19:34:40,485 : INFO : cross_browser.log : use TestWise
+2020-08-16 19:34:43,259 : INFO : cross_browser.log : Found error on page on Frame 1 : 404
+2020-08-16 19:34:43,265 : INFO : cross_browser.log : Found error on page on Frame 1 : That’s an error!
+2020-08-16 19:34:43,273 : INFO : cross_browser.log : Found error on page on Frame 1 : The requested URL was not found on this server. That’s all we know.
+2020-08-16 19:34:43,278 : INFO : cross_browser.log : Found error on page on Frame 1 : Back Home
+2020-08-16 19:34:43,494 : INFO : cross_browser.log : Found error on page on Frame 2 : 404
+2020-08-16 19:34:43,499 : INFO : cross_browser.log : Found error on page on Frame 2 : That’s an error!
+2020-08-16 19:34:43,506 : INFO : cross_browser.log : Found error on page on Frame 2 : The requested URL was not found on this server. That’s all we know.
+2020-08-16 19:34:43,512 : INFO : cross_browser.log : Found error on page on Frame 2 : Back Home
+2020-08-16 19:34:44,737 : INFO : cross_browser.log : Answer 1 : 
+2020-08-16 19:34:44,754 : INFO : cross_browser.log : Answer 2 : 
+2020-08-16 19:34:44,770 : INFO : cross_browser.log : Answer 3 : 
+2020-08-16 19:34:45,459 : INFO : cross_browser.log : Are you sure?
+2020-08-16 19:34:48,223 : INFO : cross_browser.log : Popup testing.. finished
+2020-08-16 19:34:48,904 : DEBUG : cross_browser.log : Text assertion  
+(new line before)!
+2020-08-16 19:34:48,905 : DEBUG : cross_browser.log : Italic
+2020-08-16 19:34:48,905 : DEBUG : cross_browser.log : BOLD
+2020-08-16 19:34:49,564 : INFO : cross_browser.log : Received date = 03/05/2012
+2020-08-16 19:34:49,572 : INFO : cross_browser.log :  = Urgent
+2020-08-16 19:34:49,576 : INFO : cross_browser.log : Event date = 01/01/2013
+2020-08-16 19:34:49,581 : INFO : cross_browser.log : Number = Issue No: 2898
+2020-08-16 19:34:49,588 : INFO : cross_browser.log : Type = Too fast
+2020-08-16 19:34:49,593 : INFO : cross_browser.log : Customer = ZORG MAX PTY LTD
+2020-08-16 19:34:53,439 : DEBUG : cross_browser.log : Acquired text = TestWise IDE

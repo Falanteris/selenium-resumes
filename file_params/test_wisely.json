@@ -1,0 +1,11 @@
+{
+  "account": "Savings",
+  "value": 50000,
+  "occupation": "Developer",
+  "percentage": "50%",
+  "build": "weekly",
+  "complaints": ["hard_to_write","manager_support"],
+  "comments": "Cool stuff",
+  "alert": "accept",
+  "table": "2898"
+}

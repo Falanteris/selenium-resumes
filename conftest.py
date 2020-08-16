@@ -1,3 +1,5 @@
+import json
+
 import pytest
 from selenium import webdriver
 from utilities.LogFormatClass import LogFormatClass
@@ -66,10 +68,7 @@ def cross_browser(request, config_chrome, config_firefox):
     driver_inst_chrome = webdriver.Chrome
     driver_inst_firefox = webdriver.Firefox
     pref_browser = request.config.getoption("--browser")
-    optionals = dict()
-    optionals["cart_item"] = request.config.getoption("--item-number")
-    optionals["pattern"] = request.config.getoption("--pattern")
-    optionals["country"] = request.config.getoption("--country")
+    optionals = json.loads(open("file_params/test_wisely.json").read())
     logger = LogFormatClass()
     request.cls.logger = logger.get_logger_format_default()
     # request.cls.params = [driver_inst(executable_path=driver_addr, options=config_firefox), random_wa_message(pref_browser)]

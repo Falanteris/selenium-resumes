@@ -1,5 +1,8 @@
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.select import Select
+from selenium.webdriver.support.wait import WebDriverWait
+
 
 from testwisely.Switcher import Switcher
 
@@ -14,9 +17,11 @@ class HandleIframes(Switcher):
         Switcher.__init__(self,driver,logger)
 
     def run(self):
+        self.driver.implicitly_wait(10)
         self.switch(HandleIframes.partial_link,self.iframe_operations)
         pass
     def iframe_operations(self,*args):
+
         # frame 1
         frame_1 = self.driver.find_element(*HandleIframes.frame_1)
         self.driver.switch_to.frame(frame_1)

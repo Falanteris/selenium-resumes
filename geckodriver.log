@@ -1,0 +1,166 @@
+1597577448984	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDpiS2S"
+1597577477607	Marionette	INFO	Listening on port 40257
+1597577477785	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39012F,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1597577689599	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilea6js0n"
+1597577716534	Marionette	INFO	Listening on port 43059
+1597577716595	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39012F,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1597577947722	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaEEOJC"
+1597577954707	Marionette	INFO	Listening on port 43339
+1597577954743	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+[Parent 21965, Compositor] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-nvLbAV/firefox-78.0.2+build2/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+[Parent 21965, Compositor] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-nvLbAV/firefox-78.0.2+build2/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 19
+1597578076654	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0kag29"
+1597578081874	Marionette	INFO	Listening on port 42805
+1597578082056	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597578161580	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuXRQxD"
+1597578168841	Marionette	INFO	Listening on port 44499
+1597578168898	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1597578227992	Marionette	INFO	Stopped listening on port 42805
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1597578274501	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuGmXEd"
+1597578288912	Marionette	INFO	Listening on port 39729
+1597578288942	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1597578425043	Marionette	INFO	Stopped listening on port 39729
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1597578432851	Marionette	INFO	Stopped listening on port 44499
+1597578511409	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAVs8BJ"
+1597578518264	Marionette	INFO	Listening on port 43379
+1597578518326	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597578547493	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCz1cyB"
+1597578554457	Marionette	INFO	Listening on port 34103
+1597578554512	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597578577472	Marionette	INFO	Stopped listening on port 34103
+1597579059018	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7HKu7x"
+1597579064163	Marionette	INFO	Listening on port 37125
+1597579064233	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597579135985	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNV3hAt"
+1597579146527	Marionette	INFO	Listening on port 44653
+1597579146615	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597579207284	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile26mx4Z"
+1597579222670	Marionette	INFO	Listening on port 33959
+1597579222721	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597579254664	Marionette	INFO	Stopped listening on port 33959
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1597579271720	Marionette	INFO	Stopped listening on port 44653
+1597579271731	Marionette	INFO	Stopped listening on port 37125
+1597579271910	Marionette	INFO	Stopped listening on port 43379
+1597579461293	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW6Q0IW"
+1597579471450	Marionette	INFO	Listening on port 42807
+1597579471543	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://testwisely.com/demo/customer-interview, line 1: ReferenceError: show_answer_1 is not defined
+JavaScript error: https://testwisely.com/demo/customer-interview#, line 1: ReferenceError: show_answer_2 is not defined
+JavaScript error: https://testwisely.com/demo/customer-interview#, line 1: ReferenceError: show_answer_3 is not defined
+1597579524282	Marionette	INFO	Stopped listening on port 42807
+1597579587983	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile908VAY"
+1597579611025	Marionette	INFO	Listening on port 35977
+1597579611102	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39012F,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1597579642264	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileh4n0hc"
+1597579648269	Marionette	INFO	Listening on port 40867
+1597579648696	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://testwisely.com/demo/customer-interview, line 1: ReferenceError: show_answer_1 is not defined
+JavaScript error: https://testwisely.com/demo/customer-interview#, line 1: ReferenceError: show_answer_2 is not defined
+JavaScript error: https://testwisely.com/demo/customer-interview#, line 1: ReferenceError: show_answer_3 is not defined
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1597579834882	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCX8GFp"
+1597579839756	Marionette	INFO	Listening on port 35133
+1597579839794	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597579915821	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilez7Od2q"
+1597579921592	Marionette	INFO	Listening on port 40937
+1597579921637	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://testwisely.com/demo/customer-interview, line 1: ReferenceError: show_answer_1 is not defined
+JavaScript error: https://testwisely.com/demo/customer-interview#, line 1: ReferenceError: show_answer_2 is not defined
+JavaScript error: https://testwisely.com/demo/customer-interview#, line 1: ReferenceError: show_answer_3 is not defined
+1597580005520	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0SQOKi"
+1597580013328	Marionette	INFO	Listening on port 39823
+1597580013352	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://testwisely.com/demo/customer-interview, line 1: ReferenceError: show_answer_1 is not defined
+JavaScript error: https://testwisely.com/demo/customer-interview#, line 1: ReferenceError: show_answer_2 is not defined
+JavaScript error: https://testwisely.com/demo/customer-interview#, line 1: ReferenceError: show_answer_3 is not defined
+1597580053075	Marionette	INFO	Stopped listening on port 39823
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1597580062364	Marionette	INFO	Stopped listening on port 40937
+1597581263211	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--start-maximized" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezOiTSY"
+1597581270530	Marionette	INFO	Listening on port 46489
+1597581270630	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://testwisely.com/demo/customer-interview, line 1: ReferenceError: show_answer_1 is not defined
+JavaScript error: https://testwisely.com/demo/customer-interview#, line 1: ReferenceError: show_answer_2 is not defined
+JavaScript error: https://testwisely.com/demo/customer-interview#, line 1: ReferenceError: show_answer_3 is not defined
+1597581305588	Marionette	INFO	Stopped listening on port 46489

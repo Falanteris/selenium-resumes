@@ -15,6 +15,7 @@ class PopupWindow(Switcher):
 
     def run(self,action):
         # action is 'accept' or 'dismiss'
+        self.driver.implicitly_wait(10)
         self.switch(PopupWindow.link_locator,self.operations,action)
     def operations(self,*args):
         button = self.driver.find_element(*PopupWindow.buy_now_button)

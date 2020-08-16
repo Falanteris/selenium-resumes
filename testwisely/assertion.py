@@ -1,4 +1,6 @@
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.wait import WebDriverWait
 
 from testwisely.Switcher import Switcher
 
@@ -13,6 +15,7 @@ class AssertionTests(Switcher):
         Switcher.__init__(self,driver,logger)
 
     def run(self):
+        self.driver.implicitly_wait(10)
         self.switch(AssertionTests.link_locator,self.operations)
         pass
     def operations(self,*args):
