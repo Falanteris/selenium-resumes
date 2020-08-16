@@ -8,8 +8,8 @@ driver = None
 
 
 
-CHROMEDRIVER_PATH = '/usr/local/bin/chromedriver'
-FIREFOXDRIVER_PATH = '/home/jasperzec/geckodriver'
+CHROMEDRIVER_PATH = '/usr/local/bin/chromedriver' # replace this with your Chrome driver location
+FIREFOXDRIVER_PATH = '/home/jasperzec/geckodriver' # replace this with your Firefox driver location
 
 def pytest_addoption(parser):
     parser.addoption(
