@@ -6,6 +6,6 @@
   "build": "weekly",
   "complaints": ["hard_to_write","manager_support"],
   "comments": "Cool stuff",
-  "alert": "accept",
-  "table": "2898"
+  "alert": "dismiss",
+  "table": "2899"
 }

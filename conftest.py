@@ -71,12 +71,18 @@ def cross_browser(request, config_chrome, config_firefox):
     optionals = json.loads(open("file_params/test_wisely.json").read())
     logger = LogFormatClass()
     request.cls.logger = logger.get_logger_format_default()
+    set_up = []
+    driver_inst = None
     # request.cls.params = [driver_inst(executable_path=driver_addr, options=config_firefox), random_wa_message(pref_browser)]
     if pref_browser == "firefox":
-        return [driver_inst_firefox(executable_path=FIREFOXDRIVER_PATH, options=config_firefox), pref_browser,
+        driver_inst = driver_inst_firefox(executable_path=FIREFOXDRIVER_PATH, options=config_firefox)
+        set_up = [driver_inst, pref_browser,
                 optionals]
-    return [driver_inst_chrome(executable_path=CHROMEDRIVER_PATH, options=config_chrome), pref_browser, optionals]
-
+    else:
+        driver_inst = driver_inst_chrome(executable_path=CHROMEDRIVER_PATH, options=config_chrome)
+        set_up = [driver_inst, pref_browser, optionals]
+    yield set_up
+    driver_inst.close()
 
 # print("Executing tests on both browsers")
 # yield [driver_inst_firefox(executable_path=FIREFOXDRIVER_PATH, options=config_firefox), "firefox"]
