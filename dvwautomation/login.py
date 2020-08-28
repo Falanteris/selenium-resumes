@@ -8,8 +8,8 @@ class LoginDvwa(DvwaCookie):
     password = (By.NAME, "password")
     login_button = (By.NAME,"Login")
 
-    def __init__(self,driver,logger):
-        DvwaCookie.__init__(self,"login.pkl",driver,logger)
+    def __init__(self,driver,logger,host,basepath):
+        DvwaCookie.__init__(self,"login.pkl",driver,logger,host, basepath)
 
     def login(self,username,password):
         self.driver.find_element(*LoginDvwa.username).send_keys(username)

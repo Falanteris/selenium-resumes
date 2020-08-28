@@ -60,6 +60,10 @@ def config_chrome_headless():
 
 
 
+@pytest.fixture(scope='class',params=[json.loads(open("file_params/test_dvwa_auth.json").read())])
+def dvwa_config_load(request):
+    yield request.param
+
 @pytest.fixture(scope='class')
 def cross_browser(request, config_chrome, config_firefox):
     # index 0 is the PATH to the driver

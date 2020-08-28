@@ -15,8 +15,8 @@ class SqlInject(DvwaCookie):
             self.logger.info("Got response : {}".format((response.text)))
 
         pass
-    def __init__(self,driver,logger):
-        DvwaCookie.__init__(self,'login.pkl',driver,logger)
+    def __init__(self,driver,logger,host, basepath):
+        DvwaCookie.__init__(self,'login.pkl',driver,logger,host, basepath)
     def exploit(self):
         self.driver.find_element(*SqlInject.linker).click()
         exploit(self.fetch,self.log_response)

@@ -1,0 +1,7 @@
+{
+    "url": "http://localhost/DVWA",
+    "username": "admin",
+    "password": "password",
+    "host": "localhost",
+    "path": "/DVWA"
+}
