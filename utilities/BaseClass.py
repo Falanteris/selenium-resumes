@@ -18,6 +18,10 @@ class BaseClass:
                 opt.click()
                 return True
         return AssertionError("Expected value missing..")
+    def wait_for_presence(self, element, timer):
+        waiter = WebDriverWait(self.driver,timer)
+        return waiter.until(EC.presence_of_element_located(element))
+
     pass
 @pytest.mark.usefixtures("wa_tester")
 class WaClass:
