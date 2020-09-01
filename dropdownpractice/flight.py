@@ -5,10 +5,10 @@ from utilities.BaseClass import BaseClass
 
 
 class FlightHandler(BaseClass):
-    From = (By.ID, "ctl00_mainContent_ddl_originStation1_CTXT")
+    From = (By.CLASS_NAME, "left1")
     FromXPATH = (By.XPATH,"//*[contains(@id,'mainContent_ddl_originStation') and contains(@id,'CTXT')]")
     ToXPATH = (By.XPATH, "//*[contains(@id,'mainContent_ddl_destinationStation') and contains(@id,'CTXT')]")
-    To = (By.ID, "ctl00_mainContent_ddl_destinationStation1_CTXT")
+    To = (By.CLASS_NAME, "right1")
     ParentTrigger = (By.ID,"divAdult")
     ChildTrigger = (By.ID,"divChild")
     InfantTrigger = (By.ID, "divInfant")
@@ -41,7 +41,6 @@ class FlightHandler(BaseClass):
         self.driver = driver
         self.logger = logger
         self.pax = False
-        self.driver.implicitly_wait(5)
     def set_check_list(self,special):
         family_and_friends = self.driver.find_element(*FlightHandler.FamilyAndFriendsChecklist)
         minor = self.driver.find_element(*FlightHandler.MinorCheckList)
@@ -53,21 +52,25 @@ class FlightHandler(BaseClass):
         selector = self.driver.find_element(*FlightHandler.CurrencySelector)
         self.select(selector,currency)
     def set_from(self,region,location):
-        src = self.driver.find_element(*FlightHandler.FromXPATH)
+        src = self.driver.find_element(*FlightHandler.From)
         src.click()
         generate_parent_locator = (By.XPATH, FlightHandler.GroupSelector.format(region, location))
+        self.wait_for_presence_of_elements(generate_parent_locator,10)
         locator = src.find_elements(*generate_parent_locator)
+
         locator[0].click()
 
         pass
 
     def set_to(self,region,location):
-        src = self.driver.find_element(*FlightHandler.ToXPATH)
+        src = self.driver.find_element(*FlightHandler.To)
         generate_parent_locator = (By.XPATH, FlightHandler.GroupSelector.format(region,location))
+        self.wait_for_presence_of_elements(generate_parent_locator,10)
         locator = src.find_elements(*generate_parent_locator)
         locator[1].click()
         pass
     def configure_pax(self):
+        self.wait_for_presence(FlightHandler.PAX,10)
         self.driver.find_element(*FlightHandler.PAX).click()
     def get_buttons(self,age):
         #

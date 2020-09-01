@@ -22,6 +22,10 @@ class BaseClass:
         waiter = WebDriverWait(self.driver,timer)
         return waiter.until(EC.presence_of_element_located(element))
 
+    def wait_for_presence_of_elements(self, elements, timer):
+        waiter = WebDriverWait(self.driver, timer)
+        return waiter.until(EC.presence_of_all_elements_located(elements))
+
     pass
 @pytest.mark.usefixtures("wa_tester")
 class WaClass:

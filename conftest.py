@@ -18,14 +18,9 @@ def pytest_addoption(parser):
         "--browser", default="chrome", help="The name of the browser, defaults to both if not included"
     )
     parser.addoption(
-        "--item-number", default="2", help="amount of items you're going to buy in the tests"
+        "--testtype", default="flight", help="Type of trip you wish to test"
     )
-    parser.addoption(
-        "--pattern", default="Ind", help="the string pattern that will be passed to the search box"
-    )
-    parser.addoption(
-        "--country", default="India", help="the actual country you're looking for."
-    )
+
 
 @pytest.fixture(scope='module')
 def config_firefox():
