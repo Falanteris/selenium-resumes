@@ -33,8 +33,6 @@ class TestDropdownsRahulShetty():
         flight.book()
         flight.handle_alert()
 
-        time.sleep(5)
-
         pass
     def test_round_trip(self,cross_browser):
 
@@ -42,7 +40,7 @@ class TestDropdownsRahulShetty():
         logger = self.logger
         driver.get("https://rahulshettyacademy.com/dropdownsPractise/#")
         driver = Switcher(driver).switch_to_round()
-        time.sleep(5)
+
         roundtrip = RoundTripHandler(driver,logger)
         roundtrip.select_date("4", "10")
         roundtrip.configure_pax()
@@ -56,6 +54,7 @@ class TestDropdownsRahulShetty():
         roundtrip.set_from("International", "Bangkok")
         roundtrip.set_to("India", "Goa")
         roundtrip.dismiss_depart_date()
+        roundtrip.book()
 
     def test_multi_trip(self, cross_browser):
         driver = cross_browser[0]

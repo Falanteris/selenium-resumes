@@ -1,13 +1,17 @@
 import pickle
 
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import Select
+from selenium.webdriver.support.wait import WebDriverWait
+
 
 class DvwaCookie():
     security_link_text = (By.LINK_TEXT,"DVWA Security")
     security_modifier = (By.NAME,"security")
     security_sender = (By.NAME,"seclev_submit")
     home_button = (By.LINK_TEXT,"Home")
+    security_message = '//div[@class="message" and contains(text(),"{}")]'
     def __init__(self,storage,driver,logger,website, basepath):
         self.storage = storage
         self.driver = driver
@@ -39,11 +43,15 @@ class DvwaCookie():
         self.driver.find_element(*DvwaCookie.security_link_text).click()
         select = Select(self.driver.find_element(*DvwaCookie.security_modifier))
         for opt in select.options:
-            print(opt.text)
             if opt.text == diff:
                 opt.click()
         self.driver.find_element(*DvwaCookie.security_sender).click()
-        self.driver.find_element(*DvwaCookie.home_button).click()
 
+        try:
+            WebDriverWait(self.driver,10).until(EC.presence_of_element_located((By.XPATH,DvwaCookie.security_message.format(diff.lower()))))
+        except Exception as e:
+            self.logger.error("Security message not found ..")
+            raise e
+        self.driver.find_element(*DvwaCookie.home_button).click()
 
 

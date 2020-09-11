@@ -21,14 +21,7 @@ class TestDvwa():
         # use change_difficulty method to change DVWA's difficulty.
         # login.login("admin","password")
         login.change_difficulty_gui("Low")
-        login.change_difficulty_gui("Medium")
-        # time.sleep(1)
-        login.change_difficulty_gui("High")
-        # time.sleep(1)
-        login.change_difficulty_gui("Impossible")
-        # time.sleep(1)
-        login.change_difficulty_gui("Low")
-        time.sleep(5)
+
 
     def test_sqli_dvwa(self,cross_browser,dvwa_config_load):
         driver = cross_browser[0]
@@ -38,8 +31,7 @@ class TestDvwa():
         injector = SqlInject(driver,logger, dvwa_config_load["host"],dvwa_config_load["path"])
         # injector.use_cookie_login()
         injector.exploit()
-        time.sleep(5)
-        pass
+
     def test_xss_dvwa(self,cross_browser,dvwa_config_load):
         driver = cross_browser[0]
         logger = self.logger
@@ -48,5 +40,3 @@ class TestDvwa():
         injector = XssInjectReflected(driver, logger, dvwa_config_load["host"], dvwa_config_load["path"])
         # injector.use_cookie_login()
         injector.exploit()
-        time.sleep(5)
-        pass

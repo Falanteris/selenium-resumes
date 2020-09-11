@@ -1,3 +1,6 @@
+from selenium.webdriver import ActionChains as AC
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from dvwa_exploits.sqli_exploit import exploit
 from dvwautomation.DvwaCookieManager import DvwaCookie
@@ -19,6 +22,9 @@ class SqlInject(DvwaCookie):
         DvwaCookie.__init__(self,'login.pkl',driver,logger,host, basepath)
     def exploit(self):
         self.driver.find_element(*SqlInject.linker).click()
+        WebDriverWait(self.driver,10).until(EC.presence_of_element_located(SqlInject.input_bar))
+        WebDriverWait(self.driver, 10).until(EC.presence_of_element_located(SqlInject.button))
+
         exploit(self.fetch,self.log_response)
 
     def fetch(self):
